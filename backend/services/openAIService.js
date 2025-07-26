@@ -3,27 +3,20 @@ require('dotenv').config();
 
 const { fetchSitemapUrls } = require('../utils/sitemapReader');
 const SeoTask = require('../models/seoTask');
-const { supabase } = require('../../frontend/src/services/supabaseClient');
+const supabase = require('../services/supabaseClient');
+const { fetchUserServices } = require('../services/fetchUserServices');
+const { fetchUserLocations } = require('../services/fetchUserLocations');
+
+const getUserServices = async (userId) => await fetchUserServices(userId);
+const getUserCities = async (userId) => await fetchUserLocations(userId);
 
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_SECRET,
 });
 
-async function getUserCities(userId) {
-  const { data, error } = await supabase
-    .from('locations')
-    .select('city')
-    .eq('user_id', userId)
-    .eq('active', true);
 
-  if (error) {
-    console.error('❌ Failed to fetch user cities:', error.message);
-    return [];
-  }
 
-  return data.map(loc => loc.city);
-}
 
 // Sugestões gerais de SEO (create / improve)
 async function generateSeoSuggestions(filteredData, filterType = 'all', userId = null) {
@@ -61,25 +54,6 @@ async function generateSeoSuggestions(filteredData, filterType = 'all', userId =
   const sitemapUrl = 'https://homeservicesolutions.ca/sitemap.xml';
   const existingPages = await fetchSitemapUrls(sitemapUrl);
 
-  async function getUserCities(userId) {
-  const { data, error } = await supabase
-    .from('locations')
-    .select('city')
-    .eq('user_id', userId)
-    .eq('active', true);
-  if (error) return [];
-  return data.map((loc) => loc.city.toLowerCase());
-}
-
-async function getUserServices(userId) {
-  const { data, error } = await supabase
-    .from('services')
-    .select('name')
-.eq('user_id', userId)
-.in('active', [true, null])
-  if (error) return [];
-  return data.map((s) => s.name.toLowerCase());
-}
 
 
   const prompt = buildPrompt(topRows, existingPages, doneKeywords);
@@ -251,26 +225,32 @@ async function generateBlogIdeas(filteredData, userId = null) {
   const existingBlogTasks = await SeoTask.find({ action: 'blog' });
   const usedKeywords = existingBlogTasks.map(t => t.keyword.toLowerCase());
 
-const allowedCities = userId ? await getUserCities(userId) : [];
-const allowedServices = userId ? await getUserServices(userId) : [];
+  const allowedCities = userId ? await getUserCities(userId) : [];
+  const allowedServices = userId ? await getUserServices(userId) : [];
 
-const searchTerms = filteredData
-  .filter(row => {
-    const term = row.keys?.join(' ').toLowerCase();
+  console.log('✅ userId recebido:', userId);
+  console.log('🌆 allowedCities:', allowedCities);
+  console.log('🔧 allowedServices:', allowedServices);
 
-    const containsCity = allowedCities.some(city => term.includes(city));
-    const containsService = allowedServices.some(service => term.includes(service));
-    const validCombo = containsCity && containsService;
+  const normalize = str => str.toLowerCase().replace(/[^a-z0-9]/g, ' ');
 
-    return (
-      row.impressions > 100 &&
-      row.clicks === 0 &&
-      validCombo &&
-      !term.includes('home service solutions') &&
-      !usedKeywords.includes(term)
-    );
-  })
+  const searchTerms = filteredData
+    .filter(row => {
+      const term = row.keys?.join(' ').toLowerCase();
+      const normTerm = normalize(term);
 
+      const containsCity = allowedCities.some(city => normTerm.includes(normalize(city)));
+      const containsService = allowedServices.some(service => normTerm.includes(normalize(service)));
+      const validCombo = containsCity || containsService;
+
+      return (
+        row.impressions > 100 &&
+        row.clicks === 0 &&
+        validCombo &&
+        !term.includes('home service solutions') &&
+        !usedKeywords.includes(term)
+      );
+    })
     .sort((a, b) => b.impressions - a.impressions)
     .slice(0, 2);
 
@@ -313,9 +293,20 @@ Please suggest blog post ideas using this JSON format:
   try {
     const parsed = JSON.parse(jsonString);
     return parsed.map(suggestion => {
-      const match = searchTerms.find(row =>
-        suggestion.keyword.toLowerCase().includes(row.keys.join(' ').toLowerCase())
-      );
+      const keyword = suggestion.keyword?.toLowerCase().trim();
+      const match = searchTerms.find(row => {
+        const rowTerm = row.keys?.join(' ').toLowerCase().trim();
+        return (
+          rowTerm === keyword ||
+          keyword.includes(rowTerm) ||
+          rowTerm.includes(keyword)
+        );
+      });
+
+      if (!match) {
+        console.warn(`⚠️ No matching base data for keyword: "${suggestion.keyword}"`);
+        console.warn(`🔍 Keywords in searchTerms:`, searchTerms.map(r => r.keys.join(' ')));
+      }
 
       const title = suggestion.blogTitle || suggestion.seoTitle;
       const keywords = suggestion.keywords?.join(', ') || '';
@@ -335,12 +326,13 @@ Please suggest blog post ideas using this JSON format:
           : null,
         contentPrompt,
       };
-    });
+    }).slice(0, 2);
   } catch (err) {
     console.error('Failed to parse blog idea response:', err);
     return [];
   }
 }
+
 
 async function generateBlogContentFromPrompt(prompt) {
   const completion = await openai.chat.completions.create({
@@ -358,10 +350,58 @@ async function generateContentPrompt({ title, keywords, userId }) {
   return `Create a blog post about '${title}'. Write it in an informative tone. Use transition words. Use active voice. Write over 1000 words. The blog post should be in a beginner’s guide style. Add title and subtitle for each section. It should have a minimum of 6 sections. Include the following keywords: ${keywords.join(', ')}. The meta description is already defined. At the end, add a final section listing the cities we serve: ${cities.join(', ')}. Also, generate a prompt for an image that fits the blog post.`;
 }
 
+async function generateLocalPageFromKeyword(keyword, url) {
+  const knownCities = [
+    'Kitchener', 'Waterloo', 'Cambridge', 'Guelph', 'Fergus', 'Ayr', 'Elmira', 'Baden', 'New Hamburg', 'Hamilton'
+  ];
+
+  const location = knownCities.find(city =>
+    keyword.toLowerCase().includes(city.toLowerCase())
+  );
+
+  if (!location) return null;
+
+  const serviceSlug = url.split('/').pop(); // ex: 'gutter-guards'
+  const slug = `${serviceSlug}-${location.toLowerCase().replace(/\s+/g, '-')}`;
+  const serviceName = serviceSlug.replace(/-/g, ' ');
+
+  const seoTitle = `${capitalizeWords(serviceName)} in ${location}`;
+  const metaDescription = `Explore expert ${serviceName} services in ${location}. Trusted by homeowners. Get a quote today.`;
+
+  const contentPrompt = `
+Generate an SEO-optimized local service page for a home services company.
+- Service: ${serviceName}
+- Location: ${location}
+- Title: ${seoTitle}
+- Slug: ${slug}
+- Meta Description: ${metaDescription}
+- Use keywords like: "${keyword}"
+- Structure: Introduction, Benefits, Why Choose Us, FAQs, Call to Action.
+- Tone: Trustworthy, professional, local expert.
+`;
+
+  return {
+    slug,
+    keyword,
+    seoTitle,
+    metaDescription,
+    contentPrompt,
+    action: 'local-page',
+    status: 'pending',
+    created_at: new Date().toISOString(),
+  };
+}
+
+function capitalizeWords(str) {
+  return str.replace(/\b\w/g, l => l.toUpperCase());
+}
+
+
 module.exports = {
   generateSeoSuggestions,
   regenerateSeoSuggestion,
   generateBlogIdeas,
   generateBlogContentFromPrompt,
   generateContentPrompt,
+  generateLocalPageFromKeyword,
 };

@@ -16,7 +16,9 @@ router.get('/', async (req, res) => {
 router.post('/generate', async (req, res) => {
   console.log('🚀 Recebida solicitação para gerar blog ideas');
   try {
-    const { data, userId } = req.body;
+    // const { data, userId } = req.body;
+
+    const { userId } = req.body;
 
     const startDate = req.query.start || '2025-06-01';
     const endDate = req.query.end || '2025-07-01';
@@ -117,6 +119,8 @@ router.patch('/:id/posted', async (req, res) => {
     const { posted } = req.body;
 
     const idea = await SeoTask.findByIdAndUpdate(id, { posted }, { new: true });
+        await SeoTask.findByIdAndUpdate(id, { status: posted ? 'done' : 'pending' });
+
     if (!idea) return res.status(404).json({ error: 'Blog idea not found' });
 
     res.json({ message: 'Updated posted status', posted: idea.posted });

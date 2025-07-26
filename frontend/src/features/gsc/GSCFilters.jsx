@@ -16,6 +16,7 @@ export default function GSCFilters({
   excludeTerm, setExcludeTerm,
   loadingReport, setLoadingReport,
   loadingSuggestions, setLoadingSuggestions,
+  showOnlySuggestions, setShowOnlySuggestions, 
 })
 
 {
@@ -126,6 +127,17 @@ className={`bg-[#2a2b2e] text-white px-4 py-2 rounded text-sm hover:bg-[#1f2022]
     />
     Show Top Rankings
   </label>
+<label className="flex items-center gap-2 font-medium text-blue-900">
+  <input
+    type="checkbox"
+    checked={showOnlySuggestions}
+    onChange={e => setShowOnlySuggestions(e.target.checked)}
+    disabled={loadingReport || loadingSuggestions}
+  />
+  🧭 Only Keywords with Local Page Opportunity
+</label>
+
+
   <button
     onClick={async () => {
   setLoadingSuggestions(true);

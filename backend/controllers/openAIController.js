@@ -1,4 +1,4 @@
-const { generateSeoSuggestions } = require('../../frontend/src/services/supabaseClient');
+const { generateSeoSuggestions } = require('../services/supabaseClient');
 
 const aiGenerateSeoSuggestions = async (req, res) => {
   try {

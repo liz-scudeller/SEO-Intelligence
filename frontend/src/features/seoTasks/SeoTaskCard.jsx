@@ -119,7 +119,7 @@ export default function SeoTaskCard({
         <button
           onClick={async () => {
             setLoadingAction('regenerate');
-            await onRegenerate(task._id);
+            await onRegenerate(task._id, task.action);
             setLoadingAction(null);
           }}
           disabled={loadingAction === 'regenerate'}

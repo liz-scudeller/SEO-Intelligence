@@ -12,6 +12,8 @@ import {
   Menu,
   X,
   Search,
+  Settings,
+  ClipboardList,
 } from 'lucide-react';
 
 export default function HomeDashboard() {
@@ -25,6 +27,8 @@ export default function HomeDashboard() {
     { label: 'SEO Report', path: '/seo-report', icon: <FileText /> },
     { label: 'Blog Ideas', path: '/blog-ideas', icon: <FilePenLine /> },
     { label: 'SEO Tasks', path: '/seo-tasks', icon: <ListChecks /> },
+    { label: 'Implementation Report', path: '/implementation-report', icon: <ClipboardList /> },
+    { label: 'Settings', path: '/settings', icon: <Settings  /> },
   ];
 
   const renderNav = () => (

@@ -17,6 +17,9 @@ const seoTaskSchema = new mongoose.Schema({
   content: String,
   status: { type: String, enum: ['pending', 'done'], default: 'pending' },
   posted: { type: Boolean, default: false }, 
+    userId: String,
+    doneAt: { type: Date, default: null },
+
 }, { timestamps: true });
 
 module.exports = mongoose.model('SeoTask', seoTaskSchema);

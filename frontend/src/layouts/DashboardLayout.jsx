@@ -9,6 +9,7 @@ export default function DashboardLayout() {
     { label: 'SEO Report', path: '/seo-report' },
     { label: 'Blog Ideas', path: '/blog-ideas' },
     { label: 'SEO Tasks', path: '/seo-tasks' },
+    { label: 'Reports', path: '/imprementation-report' },
   ];
 
   return (

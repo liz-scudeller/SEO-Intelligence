@@ -4,8 +4,6 @@ import GSCResultsTable from '../features/gsc/GSCResultsTable';
 import GSCSuggestionsPanel from '../features/gsc/GSCSuggestionsPanel';
 import { supabase } from '../services/supabaseClient';
 
-
-
 export default function GSCDashboard() {
   const today = new Date().toISOString().split('T')[0];
   const thirtyDaysAgo = new Date(Date.now() - 30 * 24 * 60 * 60 * 1000).toISOString().split('T')[0];
@@ -25,75 +23,55 @@ export default function GSCDashboard() {
   const [sortDirection, setSortDirection] = useState('asc');
   const [excludeTerm, setExcludeTerm] = useState('');
   const [loadingReport, setLoadingReport] = useState(false);
-const [loadingSuggestions, setLoadingSuggestions] = useState(false);
-const [cities, setCities] = useState([]);
-const [services, setServices] = useState([]);
-const [userId, setUserId] = useState(null);
+  const [loadingSuggestions, setLoadingSuggestions] = useState(false);
+  const [cities, setCities] = useState([]);
+  const [services, setServices] = useState([]);
+  const [userId, setUserId] = useState(null);
+  const [showOnlySuggestions, setShowOnlySuggestions] = useState(false);
+  const [slugSuggestions, setSlugSuggestions] = useState({});
 
-useEffect(() => {
-  const fetchUser = async () => {
-    const { data } = await supabase.auth.getUser();
-    setUserId(data?.user?.id || null);
+  useEffect(() => {
+    const fetchUser = async () => {
+      const { data } = await supabase.auth.getUser();
+      setUserId(data?.user?.id || null);
+    };
+    fetchUser();
+  }, []);
+
+  const handleFetch = async () => {
+    if (new Date(startDate) > new Date(endDate)) {
+      alert("Start date cannot be after end date.");
+      return;
+    }
+
+    setLoadingReport(true);
+    try {
+      const siteUrl = 'https://homeservicesolutions.ca';
+      const response = await fetch(`/gsc/report?siteUrl=${siteUrl}&startDate=${startDate}&endDate=${endDate}&dimensions=${dimension}`);
+      const result = await response.json();
+
+      const rows = Array.isArray(result) ? result : result.rows || [];
+      setData(rows);
+      filterData(rows);
+    } catch (error) {
+      console.error("Error fetching GSC report:", error);
+    } finally {
+      setLoadingReport(false);
+    }
   };
-  fetchUser();
-}, []);
 
-
-  // const cities = ['Ayr', 'Waterloo', 'Kitchener', 'Cambridge', 'Guelph', 'Fergus', 'Elmira', 'Baden', 'New Hamburg', 'Hamilton'];
-  // const services = [
-  //   'Gutter Cleaning',
-  //   'Window Cleaning',
-  //   'Attic Insulation',
-  //   'Gutter Guards',
-  //   'Eavestrough Installation',
-  //   'Window and Door Installation',
-  //   'Soffit and Fascia',
-  //   'Window Installation',
-  //   'Door Installation',
-  // ];
-
-const handleFetch = async () => {
-  if (new Date(startDate) > new Date(endDate)) {
-    alert("Start date cannot be after end date.");
-    return;
-  }
-
-  setLoadingReport(true); // ✅ aqui
-  try {
-    const siteUrl = 'https://homeservicesolutions.ca';
-    const response = await fetch(`/gsc/report?siteUrl=${siteUrl}&startDate=${startDate}&endDate=${endDate}&dimensions=${dimension}`);
-    const result = await response.json();
-
-    const rows = Array.isArray(result) ? result : result.rows || [];
-    setData(rows);
-    filterData(rows);
-  } catch (error) {
-    console.error("Error fetching GSC report:", error);
-  } finally {
-    setLoadingReport(false); // ✅ aqui também
-  }
-};
-
-
-const filterData = (rows) => {
-  if (!Array.isArray(rows)) return;
+  const filterData = (rows) => {
+    if (!Array.isArray(rows)) return;
     const cityLower = city.toLowerCase();
     const serviceLower = service.toLowerCase();
-    const excludedTerms = excludeTerm
-      .toLowerCase()
-      .split(/[ ,]+/)
-      .map((t) => t.trim())
-      .filter(Boolean);
-
+    const excludedTerms = excludeTerm.toLowerCase().split(/[ ,]+/).map((t) => t.trim()).filter(Boolean);
     const normalizeWhitespace = (str) => str.replace(/\s+/g, ' ').trim();
 
     const filtered = rows.filter((row) => {
       const keys = row.keys?.map((k) => k.toLowerCase()) || [];
-
       let keyword = '';
       if (dimension === 'query') keyword = keys[0] || '';
       else if (dimension === 'page,query') keyword = keys[1] || '';
-      else keyword = '';
 
       const matchesCity = !city || keys.join(' ').includes(cityLower);
       const matchesService = !service || keys.join(' ').includes(serviceLower);
@@ -112,49 +90,57 @@ const filterData = (rows) => {
   }, [city, service, excludeTerm, dimension, data]);
 
   useEffect(() => {
-  const fetchCities = async () => {
-    const user = await supabase.auth.getUser();
-    const { data, error } = await supabase
-      .from('locations')
-      .select('city')
-      .eq('user_id', user.data.user.id)
-      .eq('active', true);
+    const fetchCities = async () => {
+      const user = await supabase.auth.getUser();
+      const { data, error } = await supabase
+        .from('locations')
+        .select('city')
+        .eq('user_id', user.data.user.id)
+        .eq('active', true);
 
-    if (!error && data) {
-      setCities(data.map(loc => loc.city));
-    }
-  };
+      if (!error && data) {
+        setCities(data.map(loc => loc.city));
+      }
+    };
+    fetchCities();
+  }, []);
 
-  fetchCities();
-}, []);
+  useEffect(() => {
+    const fetchServices = async () => {
+      const user = await supabase.auth.getUser();
+      const { data, error } = await supabase
+        .from('services')
+        .select('name')
+        .eq('user_id', user.data.user.id)
+        .eq('active', true);
 
-useEffect(() => {
-  const fetchServices = async () => {
-    const user = await supabase.auth.getUser();
-    const { data, error } = await supabase
-      .from('services')
-      .select('name')
-      .eq('user_id', user.data.user.id)
-      .eq('active', true);
+      if (!error && data) {
+        setServices(data.map(s => s.name));
+      }
+    };
+    fetchServices();
+  }, []);
 
-    if (!error && data) {
-      setServices(data.map(s => s.name));
-    }
-  };
-
-  fetchServices();
-}, []);
 
 
   const visibleData = filteredData.filter(row => {
+    const keys = row.keys || [];
+    const url = keys[0] || '';
+    const keyword = dimension === 'page,query' ? keys[1] : keys[0];
+    const key = `${url}_${keyword}`;
+
     const isOpportunity = row.impressions > 500 && row.position > 10;
     const isLowCTR = row.position <= 5 && row.ctr < 0.02;
     const isGoodRanking = row.position <= 3 && row.ctr >= 0.05;
+    const hasLocalPageOpportunity = slugSuggestions[key];
+
     if (showOpportunities && !isOpportunity) return false;
     if (showLowCTR && !isLowCTR) return false;
     if (showGoodRankings && !isGoodRanking) return false;
+
     return true;
   });
+
 
   const sortedData = [...visibleData].sort((a, b) => {
     if (!sortField) return 0;
@@ -174,17 +160,29 @@ useEffect(() => {
     return sortDirection === 'asc' ? aVal - bVal : bVal - aVal;
   });
 
-  const groupByKeyword = (rows) => {
-    const grouped = {};
-    rows.forEach(row => {
-      const keyword = row.keys?.[1] || '(no keyword)';
-      if (!grouped[keyword]) grouped[keyword] = [];
-      grouped[keyword].push(row);
-    });
-    return grouped;
-  };
+  console.log('🔎 sortedData:', sortedData);
 
-  const groupedData = groupByKeyword(sortedData);
+function groupByDimension(data, dimension) {
+  const grouped = {};
+  data.forEach((row) => {
+    let key;
+    if (dimension === 'query') {
+      key = row.keys?.[0];
+    } else if (dimension === 'page') {
+      key = row.keys?.[0];
+    } else if (dimension === 'page,query') {
+      key = row.keys?.[1];
+    } else {
+      key = 'unknown';
+    }
+
+    if (!key) return;
+    if (!grouped[key]) grouped[key] = [];
+    grouped[key].push(row);
+  });
+  return grouped;
+}
+
 
   const getSeoScore = (row) => {
     const { impressions, ctr, position } = row;
@@ -282,7 +280,8 @@ const generateSeoSuggestionsWithFilter = async (filterType) => {
   cities, services,
   excludeTerm, setExcludeTerm,
   loadingReport, setLoadingReport,
-  loadingSuggestions, setLoadingSuggestions
+  loadingSuggestions, setLoadingSuggestions,
+  showOnlySuggestions, setShowOnlySuggestions,
 }} />
 
       <div className="flex flex-wrap gap-4 text-sm mb-4">
@@ -301,10 +300,11 @@ const generateSeoSuggestionsWithFilter = async (filterType) => {
       </div>
 
       <GSCResultsTable
-        groupedData={groupByKeyword(sortedData)}
-        getSeoScore={getSeoScore}
+  groupedData={groupByDimension(sortedData, dimension)}
+         getSeoScore={getSeoScore}
         getRowColor={getRowColor}
         dimension={dimension}
+        showOnlySuggestions={showOnlySuggestions}
       />
 
       <div className="flex flex-wrap gap-4 my-6">

@@ -1,6 +1,7 @@
+import { supabase } from '../services/supabaseClient';
 import { useEffect, useState } from 'react';
 import axios from 'axios';
-import { Trash2, FilePenLine, Save, CheckCircle2, XCircle, PenLine, Brain } from 'lucide-react';
+
 
 export default function BlogIdeasPage() {
   const today = new Date();
@@ -14,8 +15,22 @@ export default function BlogIdeasPage() {
   const [startDate, setStartDate] = useState(formatDate(firstDayLastMonth));
   const [endDate, setEndDate] = useState(formatDate(firstDayThisMonth));
   const [generatingId, setGeneratingId] = useState(null);
-  const [openContentId, setOpenContentId] = useState(null);
   const [filterPosted, setFilterPosted] = useState('all');
+  const [userId, setUserId] = useState(null);
+
+useEffect(() => {
+  const getUser = async () => {
+    const { data: { user }, error } = await supabase.auth.getUser();
+    if (error) {
+      console.error('Erro ao pegar usuário:', error.message);
+    } else if (user) {
+      setUserId(user.id);
+    }
+  };
+
+  getUser();
+}, []);
+
 
   const fetchIdeas = async () => {
     const res = await axios.get('http://localhost:3001/blog-ideas');
@@ -29,7 +44,12 @@ export default function BlogIdeasPage() {
   const generateIdeas = async () => {
     setLoading(true);
     try {
-      await axios.post(`http://localhost:3001/blog-ideas/generate?start=${startDate}&end=${endDate}`);
+      // await axios.post(`http://localhost:3001/blog-ideas/generate?start=${startDate}&end=${endDate}`);
+      await axios.post(
+  `http://localhost:3001/blog-ideas/generate?start=${startDate}&end=${endDate}`,
+  { userId }
+);
+
       await fetchIdeas();
     } catch (err) {
       console.error('Failed to generate blog ideas:', err.message);
@@ -121,7 +141,7 @@ export default function BlogIdeasPage() {
         <p><strong>Impressions:</strong> {idea.impressions ?? '-'}</p>
         <p><strong>Clicks:</strong> {idea.clicks ?? '-'}</p>
         <p><strong>CTR:</strong> {idea.ctr ? `${(idea.ctr * 100).toFixed(2)}%` : '-'}</p>
-        <p><strong>Position:</strong> {idea.position ?? '-'}</p>
+        <p><strong>Position:</strong> {idea.position != null ? Math.trunc(idea.position) : '-'}</p>
         <p className={`font-medium ${idea.semanticScore >= 7 ? 'text-[#759b2c]' : idea.semanticScore < 4 ? 'text-red-600' : 'text-yellow-600'}`}>
           Score: {idea.semanticScore}/10
         </p>

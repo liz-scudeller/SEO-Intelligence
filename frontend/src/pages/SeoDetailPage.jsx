@@ -25,7 +25,6 @@ export default function SeoDetailPage() {
     try {
       const res = await axios.get(`http://localhost:3000/seo-report/${id}/details`);
       setReport(res.data);
-      console.log('📦 Full report from /details:', res.data);
     } catch (err) {
       console.error('Error fetching details:', err.message);
     }

@@ -5,6 +5,7 @@ import SeoTaskCard from './SeoTaskCard';
 export default function SeoTasks() {
   const [tasks, setTasks] = useState([]);
   const [filter, setFilter] = useState('all');
+  const [actionFilter, setActionFilter] = useState('all');
   const [loading, setLoading] = useState(false);
 
   const fetchTasks = async () => {
@@ -40,24 +41,50 @@ const handleDelete = async (id) => {
   }
 };
 
-const handleRegenerate = async (id) => {
-  await axios.patch(`http://localhost:3000/api/seo-tasks/${id}/generate-prompt`);
-  const res = await axios.post(`http://localhost:3000/api/seo-tasks/${id}/generate-content`);
-  const updatedTask = res.data;
+// const handleRegenerate = async (id) => {
+//   await axios.patch(`http://localhost:3000/api/seo-tasks/${id}/generate-prompt`);
+//   const res = await axios.post(`http://localhost:3000/api/seo-tasks/${id}/generate-content`);
+//   const updatedTask = res.data;
 
-  setTasks(prev => prev.map(t => t._id === id ? updatedTask : t));
+//   setTasks(prev => prev.map(t => t._id === id ? updatedTask : t));
+// };
+
+const handleRegenerate = async (id, type) => {
+  try {
+    if (type === 'page' || type === 'local-page') {
+      await axios.patch(`http://localhost:3000/api/seo-tasks/${id}/generate-local-page`);
+      const res = await axios.post(`http://localhost:3000/api/seo-tasks/${id}/generate-local-page-content`);
+      const updatedTask = res.data;
+      setTasks(prev => prev.map(t => t._id === id ? updatedTask : t));
+    } else if (type === 'blog' || type === 'improve' || type === 'create') {
+      await axios.patch(`http://localhost:3000/api/seo-tasks/${id}/generate-prompt`);
+      const res = await axios.post(`http://localhost:3000/api/seo-tasks/${id}/generate-content`);
+      const updatedTask = res.data;
+      setTasks(prev => prev.map(t => t._id === id ? updatedTask : t));
+    } else {
+      console.warn(`❗ Unknown task type: ${type}`);
+    }
+  } catch (err) {
+    console.error('❌ Error regenerating task:', err);
+  }
 };
+
 
 
   useEffect(() => {
     fetchTasks();
   }, []);
 
-  const filteredTasks = tasks.filter(task => {
-    if (filter === 'pending') return task.status === 'pending';
-    if (filter === 'done') return task.status === 'done';
-    return true;
-  });
+const filteredTasks = tasks.filter(task => {
+  const statusMatch =
+    filter === 'all' ? true : task.status === filter;
+
+  const actionMatch =
+    actionFilter === 'all' ? true : task.action === actionFilter;
+
+  return statusMatch && actionMatch;
+});
+
 
   return (
     <div className="p-6">
@@ -78,6 +105,22 @@ const handleRegenerate = async (id) => {
           </button>
         ))}
       </div>
+      <div className="flex flex-wrap gap-2 mb-4">
+  {['all', 'blog', 'create', 'improve', 'local-page'].map(action => (
+    <button
+      key={action}
+      onClick={() => setActionFilter(action)}
+      className={`text-sm px-3 py-1 rounded transition font-medium ${
+        actionFilter === action
+          ? 'bg-[#759b2c] text-white'
+          : 'bg-[rgba(117,155,44,0.1)] text-[#759b2c] hover:bg-[rgba(117,155,44,0.2)]'
+      }`}
+    >
+      {action === 'all' ? 'All Types' : action.charAt(0).toUpperCase() + action.slice(1)}
+    </button>
+  ))}
+</div>
+
 
       {loading ? (
         <p>Loading...</p>
