@@ -1,9 +1,8 @@
-const express = require("express");
-const router = express.Router();
-const openaiServiceController = require('../controllers/openAIController');
+import express from 'express';
+import * as openaiServiceController from '../controllers/openAIController.js';
 
+const router = express.Router();
 
 router.post('/seo-suggestions', openaiServiceController.aiGenerateSeoSuggestions);
 
-
-module.exports = router;
+export default router;

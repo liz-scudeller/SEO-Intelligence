@@ -1,9 +1,9 @@
-const { generateSeoSuggestions } = require('../services/supabaseClient');
+import { generateSeoSuggestions } from '../services/openAIService.js';
 
-const aiGenerateSeoSuggestions = async (req, res) => {
+export const aiGenerateSeoSuggestions = async (req, res) => {
   try {
     const { data, userId } = req.body;
-const filterType = req.query.filterType || 'all';
+    const filterType = req.query.filterType || 'all';
 
     if (!data || !Array.isArray(data)) {
       return res.status(400).json({ error: 'filteredData is required and must be an array.' });
@@ -15,8 +15,4 @@ const filterType = req.query.filterType || 'all';
     console.error('Open AI Error: ', error);
     res.status(500).json({ error: error.message });
   }
-};
-
-module.exports = {
-  aiGenerateSeoSuggestions,
 };

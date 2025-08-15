@@ -1,10 +1,12 @@
-const express = require('express');
+import express from 'express';
+import getSiteReport from '../../services/gsc/getSiteReport.js';
+import {
+  generateBlogIdeas,
+  generateBlogContentFromPrompt,
+} from '../../services/openAIService.js';
+import SeoTask from '../../models/seoTask.js';
+
 const router = express.Router();
-
-const getSiteReport = require('../../services/gsc/getSiteReport');
-const { generateBlogIdeas, generateBlogContentFromPrompt, generateContentPrompt} = require('../../services/openAIService');
-const SeoTask = require('../../models/seoTask');
-
 
 // GET /blog-ideas
 router.get('/', async (req, res) => {
@@ -16,8 +18,6 @@ router.get('/', async (req, res) => {
 router.post('/generate', async (req, res) => {
   console.log('🚀 Recebida solicitação para gerar blog ideas');
   try {
-    // const { data, userId } = req.body;
-
     const { userId } = req.body;
 
     const startDate = req.query.start || '2025-06-01';
@@ -32,35 +32,34 @@ router.post('/generate', async (req, res) => {
       rowLimit: 1000,
     });
 
-const blogSuggestions = await require('../../services/openAIService').generateBlogIdeas(rawData, userId);
+    const blogSuggestions = await generateBlogIdeas(rawData, userId);
 
     for (const s of blogSuggestions) {
-  const exists = await SeoTask.findOne({ keyword: s.keyword, action: 'blog' });
-  if (!exists) {
-    try {
-   await SeoTask.create({ 
-  keyword: s.keyword,
-  action: 'blog',
-  seoTitle: s.blogTitle || s.seoTitle,
-  slug: s.slug,
-  metaDescription: s.metaDescription,
-  content: '',
-  justification: s.justification,
-  semanticScore: s.semanticScore ?? 0,
-  hasCallToAction: s.hasCallToAction ?? false,
-  status: 'pending',
-  impressions: s.baseData?.impressions || 0,
-  clicks: s.baseData?.clicks || 0,
-  ctr: s.baseData?.ctr || 0,
-  position: s.baseData?.position || 0,
-  contentPrompt: s.contentPrompt,
-});
-} catch (err) {
-  console.error('❌ Erro ao salvar blog idea:', err.message);
-}
-
-  }
-}
+      const exists = await SeoTask.findOne({ keyword: s.keyword, action: 'blog' });
+      if (!exists) {
+        try {
+          await SeoTask.create({
+            keyword: s.keyword,
+            action: 'blog',
+            seoTitle: s.blogTitle || s.seoTitle,
+            slug: s.slug,
+            metaDescription: s.metaDescription,
+            content: '',
+            justification: s.justification,
+            semanticScore: s.semanticScore ?? 0,
+            hasCallToAction: s.hasCallToAction ?? false,
+            status: 'pending',
+            impressions: s.baseData?.impressions || 0,
+            clicks: s.baseData?.clicks || 0,
+            ctr: s.baseData?.ctr || 0,
+            position: s.baseData?.position || 0,
+            contentPrompt: s.contentPrompt,
+          });
+        } catch (err) {
+          console.error('❌ Erro ao salvar blog idea:', err.message);
+        }
+      }
+    }
 
     res.json({ message: 'Blog ideas generated and saved.' });
   } catch (err) {
@@ -118,8 +117,20 @@ router.patch('/:id/posted', async (req, res) => {
     const { id } = req.params;
     const { posted } = req.body;
 
-    const idea = await SeoTask.findByIdAndUpdate(id, { posted }, { new: true });
-        await SeoTask.findByIdAndUpdate(id, { status: posted ? 'done' : 'pending' });
+    // Define campos a atualizar
+    const updateFields = {
+      posted,
+      status: posted ? 'done' : 'pending',
+    };
+
+    // Se marcou como postado, salva também o doneAt
+    if (posted) {
+      updateFields.doneAt = new Date();
+    } else {
+      updateFields.doneAt = null; // opcional: limpa se desmarcar
+    }
+
+    const idea = await SeoTask.findByIdAndUpdate(id, updateFields, { new: true });
 
     if (!idea) return res.status(404).json({ error: 'Blog idea not found' });
 
@@ -130,16 +141,13 @@ router.patch('/:id/posted', async (req, res) => {
   }
 });
 
+
 router.patch('/:id/save-prompt', async (req, res) => {
   const { id } = req.params;
   const { contentPrompt } = req.body;
 
   try {
-    const updated = await SeoTask.findByIdAndUpdate(
-      id,
-      { contentPrompt },
-      { new: true }
-    );
+    const updated = await SeoTask.findByIdAndUpdate(id, { contentPrompt }, { new: true });
     if (!updated) return res.status(404).json({ error: 'Task not found' });
 
     res.json({ message: 'Prompt updated', updated });
@@ -160,4 +168,4 @@ router.delete('/:id', async (req, res) => {
   }
 });
 
-module.exports = router;
+export default router;

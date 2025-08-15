@@ -1,4 +1,3 @@
-// src/utils/shouldShowGeneratePage.js
 export function shouldShowGeneratePage(query, pageUrl) {
   if (!query || !pageUrl) return false;
 

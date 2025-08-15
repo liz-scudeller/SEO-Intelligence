@@ -1,10 +1,10 @@
-const axios = require('axios');
-const xml2js = require('xml2js');
+import axios from 'axios';
+import { parseStringPromise } from 'xml2js';
 
-async function fetchSitemapUrls(sitemapUrl) {
+export async function fetchSitemapUrls(sitemapUrl) {
   try {
     const { data } = await axios.get(sitemapUrl);
-    const parsed = await xml2js.parseStringPromise(data);
+    const parsed = await parseStringPromise(data);
     const urls = parsed.urlset.url.map(entry => entry.loc[0]);
     return urls;
   } catch (error) {
@@ -12,6 +12,3 @@ async function fetchSitemapUrls(sitemapUrl) {
     return [];
   }
 }
-
-module.exports = { fetchSitemapUrls };
-

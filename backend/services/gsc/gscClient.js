@@ -1,8 +1,8 @@
-const { google } = require('googleapis');
-const { getOAuthClient } = require('./authService');
+import { google } from 'googleapis';
+import { getOAuthClient } from './authService.js';
 
-const getSearchConsole = () => {
+export const getSearchConsole = () => {
   return google.searchconsole({ version: 'v1', auth: getOAuthClient() });
 };
 
-module.exports = getSearchConsole;
+export default getSearchConsole;

@@ -1,0 +1,588 @@
+{
+  "service": {
+    "id": "1b0f411f-7cb0-4383-be03-546c4e056952",
+    "slug": "gutter-cleaning",
+    "name": "Gutter Cleaning",
+    "user_id": "a55e9572-6a61-43c7-9bbb-ef319554b974"
+  },
+  "seed": [
+    "gutter cleaning",
+    "gutter cleaning service",
+    "professional gutter cleaning"
+  ],
+  "locations": [
+    {
+      "location": {
+        "id": "c03273be-e73f-46f6-b576-c420e2faf533",
+        "city": "Cambridge",
+        "province": "ON",
+        "slug": "cambridge"
+      },
+      "geoId": "1002200",
+      "ideas": [
+        {
+          "text": "gutter cleaning",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6203884",
+          "highTopOfPageBidMicros": "26968832"
+        },
+        {
+          "text": "gutter cleaning near me",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6948652",
+          "highTopOfPageBidMicros": "74933557"
+        },
+        {
+          "text": "eavestrough cleaning",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6942307",
+          "highTopOfPageBidMicros": "27742528"
+        },
+        {
+          "text": "rain gutter cleaning near me",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6948652",
+          "highTopOfPageBidMicros": "74933557"
+        },
+        {
+          "text": "eavestrough cleaning near me",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6948652",
+          "highTopOfPageBidMicros": "74933557"
+        },
+        {
+          "text": "gutter washing near me",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6948652",
+          "highTopOfPageBidMicros": "74933557"
+        },
+        {
+          "text": "cleaning eavestrough",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6942307",
+          "highTopOfPageBidMicros": "27742528"
+        },
+        {
+          "text": "gutter cleaning service",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "746484",
+          "highTopOfPageBidMicros": "7250497"
+        },
+        {
+          "text": "gutter repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter cleaning cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "$99 gutter cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "copper gutters",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof and gutter cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter cleaning services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter guys near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof gutter cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter cleaning prices",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "guttering near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter cleaning and repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "rain gutter cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "rain gutter repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter cleaning and repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter cleaners in my area",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "7213435",
+          "highTopOfPageBidMicros": "78005136"
+        },
+        {
+          "text": "handyman to clean gutters near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter cleaning near me prices",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best gutter cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter cleaning companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter vac",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "handyman gutter cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter cleaning $99",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and downspout cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter clean out",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cost to clean gutters 2 story house",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "average cost of gutter cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house gutter cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "clean my gutters",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter maintenance",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial gutter cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof gutter cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    }
+  ],
+  "topOverall": [
+    {
+      "text": "gutter cleaning",
+      "avgMonthlySearches": "40",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "6203884",
+      "highTopOfPageBidMicros": "26968832"
+    },
+    {
+      "text": "gutter cleaning near me",
+      "avgMonthlySearches": "40",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "6948652",
+      "highTopOfPageBidMicros": "74933557"
+    },
+    {
+      "text": "eavestrough cleaning",
+      "avgMonthlySearches": "40",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "6942307",
+      "highTopOfPageBidMicros": "27742528"
+    },
+    {
+      "text": "rain gutter cleaning near me",
+      "avgMonthlySearches": "40",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "6948652",
+      "highTopOfPageBidMicros": "74933557"
+    },
+    {
+      "text": "eavestrough cleaning near me",
+      "avgMonthlySearches": "40",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "6948652",
+      "highTopOfPageBidMicros": "74933557"
+    },
+    {
+      "text": "gutter washing near me",
+      "avgMonthlySearches": "40",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "6948652",
+      "highTopOfPageBidMicros": "74933557"
+    },
+    {
+      "text": "cleaning eavestrough",
+      "avgMonthlySearches": "40",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "6942307",
+      "highTopOfPageBidMicros": "27742528"
+    },
+    {
+      "text": "gutter cleaning service",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "746484",
+      "highTopOfPageBidMicros": "7250497"
+    },
+    {
+      "text": "gutter repair near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter repair",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter cleaning cost",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "$99 gutter cleaning near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "copper gutters",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "roof and gutter cleaning",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter cleaning services near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter guys near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "roof gutter cleaning",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter cleaning prices",
+      "avgMonthlySearches": "10",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "guttering near me",
+      "avgMonthlySearches": "10",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter cleaning and repair",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "rain gutter cleaning",
+      "avgMonthlySearches": "10",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "rain gutter repair near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter cleaning and repair near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter cleaners in my area",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "7213435",
+      "highTopOfPageBidMicros": "78005136"
+    },
+    {
+      "text": "handyman to clean gutters near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter cleaning near me prices",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "best gutter cleaning near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter cleaning companies",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter vac",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "handyman gutter cleaning near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter cleaning $99",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter and downspout cleaning",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter clean out",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "cost to clean gutters 2 story house",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "average cost of gutter cleaning",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "house gutter cleaning",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "clean my gutters",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter maintenance",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "commercial gutter cleaning",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "roof gutter cleaning near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    }
+  ]
+}

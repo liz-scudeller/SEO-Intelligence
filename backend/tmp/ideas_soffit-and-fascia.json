@@ -1,0 +1,3929 @@
+{
+  "service": {
+    "id": "1face0c7-b1d5-4e92-8dd8-95ec9fff30b2",
+    "slug": "soffit-and-fascia",
+    "name": "Soffit and Fascia",
+    "user_id": "a55e9572-6a61-43c7-9bbb-ef319554b974"
+  },
+  "seed": [
+    "soffit and fascia",
+    "soffit and fascia installation",
+    "soffit and fascia repair"
+  ],
+  "locations": [
+    {
+      "location": {
+        "id": "7bb3b995-c05e-4f9d-8b56-ca06e3afe4c0",
+        "city": "Kitchener",
+        "province": "ON",
+        "slug": "kitchener"
+      },
+      "geoId": "1002312",
+      "ideas": [
+        {
+          "text": "soffit and fascia",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2274049",
+          "highTopOfPageBidMicros": "8583924"
+        },
+        {
+          "text": "roofing fascia",
+          "avgMonthlySearches": "20",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia board repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutters and soffits",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and fascia replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit repair contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "guttering and fascia replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffits and fascias cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "pvc fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and gutter replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascias soffits and guttering",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "fbc0a3e0-b41c-4a29-98af-283a5a47b3e9",
+        "city": "Ayr",
+        "province": "ON",
+        "slug": "ayr"
+      },
+      "geoId": "1002170",
+      "ideas": [
+        {
+          "text": "soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascias soffits and guttering",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "aluminum soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roofing fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia & soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit repairs near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "aluminum fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and eavestrough",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fixing soffits and fascias",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eaves and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia eavestrough",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia trim",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia black soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eave fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia & soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit install",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia soffits & guttering",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascias soffits & guttering",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "grey fascia white soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house with black soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia trim",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "145ec83b-51ce-41c9-bfd5-794939d9f9f2",
+        "city": "Waterloo",
+        "province": "ON",
+        "slug": "waterloo"
+      },
+      "geoId": "1002464",
+      "ideas": [
+        {
+          "text": "soffit and fascia",
+          "avgMonthlySearches": "20",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia board repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutters and soffits",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffits and fascias cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and gutter replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascias soffits and guttering",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia boards and soffits",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter soffit and fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eave repair near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "aluminum soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "df559762-b350-4416-8083-8cb496df59f0",
+        "city": "Guelph",
+        "province": "ON",
+        "slug": "guelph"
+      },
+      "geoId": "1002283",
+      "ideas": [
+        {
+          "text": "soffit and fascia",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2261753",
+          "highTopOfPageBidMicros": "8448990"
+        },
+        {
+          "text": "soffit and fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia board repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutters and soffits",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and fascia replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and gutter replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascias soffits and guttering",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia boards and soffits",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter soffit and fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "aluminum soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "labor cost to install soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replace fascia board cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "c644caac-6624-4927-ad84-93eea2e67efb",
+        "city": "Fergus",
+        "province": "ON",
+        "slug": "fergus"
+      },
+      "geoId": "1002264",
+      "ideas": [
+        {
+          "text": "soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutters and soffits",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffits and fascias cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter soffit repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "aluminum soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutters and soffits repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "grey fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roofing fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia prices",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit gutter repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia & soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eavestrough and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "aluminum fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia eavestrough cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia eavestrough",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and eavestrough",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "coloured soffits and fascias",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eaves and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia eavestrough",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cedar fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eave fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eavestrough soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "8f70b054-48c7-41b5-abac-8b7b188a84a8",
+        "city": "Elmira",
+        "province": "ON",
+        "slug": "elmira"
+      },
+      "geoId": "1002253",
+      "ideas": [
+        {
+          "text": "soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and gutter replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "aluminum soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roofing fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eavestrough and soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eaves soffits and fascias",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "brown fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacing soffits on a house",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia soffit eaves",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia and soffit white house",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black soffit and fascia grey house",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia siding installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house with black soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "installing soffit and fascia on shed",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit repair near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair near me",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia board repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutters and soffits",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "5b5a7c49-26bf-49a2-aa53-e9d9df4451fd",
+        "city": "Baden",
+        "province": "ON",
+        "slug": "baden"
+      },
+      "geoId": "1002171",
+      "ideas": [
+        {
+          "text": "soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "vinyl soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roofing fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia & soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eavestrough and soffit",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and eavestrough",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia and eavestrough",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "coloured soffits and fascias",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia eavestrough",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eavestrough soffit",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit install",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia on a home",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit repair near me",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair near me",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia board repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutters and soffits",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit repair near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit repair near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement cost",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit replacement",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "606280c2-f2d0-46ce-b3bf-961d7c7f7a5a",
+        "city": "New Hamburg",
+        "province": "ON",
+        "slug": "new-hamburg"
+      },
+      "geoId": "1002359",
+      "ideas": [
+        {
+          "text": "soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffits and fascias cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "aluminum fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "vinyl soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roofing fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia prices",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eavestrough and soffit",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "vinyl fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia and eavestrough",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "coloured soffits and fascias",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eavestrough soffit",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia on a home",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia board repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutters and soffits",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit repair near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit repair near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "a086dbab-6b44-418e-9f78-3ebc81a93d3a",
+        "city": "Hamilton",
+        "province": "ON",
+        "slug": "hamilton"
+      },
+      "geoId": "1002287",
+      "ideas": [
+        {
+          "text": "soffit and fascia",
+          "avgMonthlySearches": "90",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "4438548",
+          "highTopOfPageBidMicros": "11790399"
+        },
+        {
+          "text": "roofing fascia",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "3885672",
+          "highTopOfPageBidMicros": "13019372"
+        },
+        {
+          "text": "soffit installation",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "501768",
+          "highTopOfPageBidMicros": "5897430"
+        },
+        {
+          "text": "house fascia",
+          "avgMonthlySearches": "20",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home fascia",
+          "avgMonthlySearches": "20",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6650600",
+          "highTopOfPageBidMicros": "20035674"
+        },
+        {
+          "text": "fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": "8461965",
+          "highTopOfPageBidMicros": "18090055"
+        },
+        {
+          "text": "soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia board repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutters and soffits",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and fascia replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "guttering and fascia replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffits and fascias cost",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and gutter replacement",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascias soffits and guttering",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "c03273be-e73f-46f6-b576-c420e2faf533",
+        "city": "Cambridge",
+        "province": "ON",
+        "slug": "cambridge"
+      },
+      "geoId": "1002200",
+      "ideas": [
+        {
+          "text": "soffit and fascia",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2272950",
+          "highTopOfPageBidMicros": "8951445"
+        },
+        {
+          "text": "soffit and fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia board repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutters and soffits",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and fascia replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia board repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffits and fascias cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia board replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and gutter replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascias soffits and guttering",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia boards and soffits",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter soffit and fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eave repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "aluminum soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "cfca31b3-2182-4582-9944-289ea038cb2e",
+        "city": "Paris",
+        "province": "ON",
+        "slug": "paris"
+      },
+      "geoId": "1002378",
+      "ideas": [
+        {
+          "text": "soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roofing fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia & soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "eaves soffits and fascias",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia cost ontario",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia eavestrough",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "average cost to replace soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and eavestrough",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia eavestrough",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia soffit eaves",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacing rotted soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia black soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black roof black soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black soffit and fascia grey house",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia & soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit install",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "finishing soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house with black soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit repair near me",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair near me",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement",
+          "avgMonthlySearches": "0",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia board repair",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement near me",
+          "avgMonthlySearches": 0,
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "23b01ec8-20d5-4a52-a80d-fa545f22df80",
+        "city": "Brantford",
+        "province": "ON",
+        "slug": "brantford"
+      },
+      "geoId": "1002192",
+      "ideas": [
+        {
+          "text": "soffit and fascia",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1994862",
+          "highTopOfPageBidMicros": "10007565"
+        },
+        {
+          "text": "soffit and fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutters and soffits",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit repair near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "gutter and soffit replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia repair cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "guttering and fascia replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffits and fascias cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and soffit replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia replacement near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "black fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia and gutter replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof fascia replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascias soffits and guttering",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia boards and soffits",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "soffit and fascia installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house fascia repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fascia installation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "aluminum soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "labor cost to install soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "aluminium fascia and soffit",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof soffit and fascia",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    }
+  ],
+  "topOverall": [
+    {
+      "text": "soffit and fascia",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "2274049",
+      "highTopOfPageBidMicros": "8583924"
+    },
+    {
+      "text": "roofing fascia",
+      "avgMonthlySearches": "20",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit and fascia installation",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit and fascia repair",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit repair near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia repair",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia repair near me",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit and fascia repair near me",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia and soffit replacement",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit replacement",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia board repair",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutters and soffits",
+      "avgMonthlySearches": "10",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia replacement",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit fascia",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "roof soffit repair",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "roof fascia repair",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter and soffit repair near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia and soffit repair near me",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter and soffit repair",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia replacement near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit replacement cost",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter and soffit replacement",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit installation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit and fascia repair cost",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter and fascia repair",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter and fascia replacement cost",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia replacement cost",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit and fascia installation near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit repair contractors near me",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "guttering and fascia replacement near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffits and fascias cost",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia and soffit replacement cost",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "pvc fascia and soffit",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "black fascia and soffit",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia and gutter replacement",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit fascia repair",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "house fascia",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit contractors near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "roof fascia replacement",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascias soffits and guttering",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia installation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "aluminum soffit installation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "gutter soffit fascia",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia & soffit installation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia soffit replacement",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia and soffit repairs near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "aluminum fascia installation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia and eavestrough",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fixing soffits and fascias",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "home fascia",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "eaves and fascia",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia eavestrough",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "soffit fascia trim",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "black fascia black soffit",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "black fascia soffit",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "black soffit fascia",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "eave fascia",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "exterior soffit and fascia",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia & soffit replacement",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "fascia and soffit install",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    }
+  ]
+}

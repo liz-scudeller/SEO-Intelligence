@@ -1,0 +1,3929 @@
+{
+  "service": {
+    "id": "b3088a7f-0373-48da-ac80-c8878d2755a3",
+    "slug": "window-and-door-installation",
+    "name": "Window and Door Installation",
+    "user_id": "a55e9572-6a61-43c7-9bbb-ef319554b974"
+  },
+  "seed": [
+    "window installation service",
+    "door installation service",
+    "professional window installers"
+  ],
+  "locations": [
+    {
+      "location": {
+        "id": "7bb3b995-c05e-4f9d-8b56-ca06e3afe4c0",
+        "city": "Kitchener",
+        "province": "ON",
+        "slug": "kitchener"
+      },
+      "geoId": "1002312",
+      "ideas": [
+        {
+          "text": "window replacements near me",
+          "avgMonthlySearches": "70",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "3675500",
+          "highTopOfPageBidMicros": "27343267"
+        },
+        {
+          "text": "garage door opener installation",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1749880",
+          "highTopOfPageBidMicros": "11328409"
+        },
+        {
+          "text": "garage opener installation",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1749880",
+          "highTopOfPageBidMicros": "11328409"
+        },
+        {
+          "text": "garage door opener and installation",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1749880",
+          "highTopOfPageBidMicros": "11328409"
+        },
+        {
+          "text": "garage door & opener installation",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1749880",
+          "highTopOfPageBidMicros": "11328409"
+        },
+        {
+          "text": "door installation",
+          "avgMonthlySearches": "40",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": "1492696",
+          "highTopOfPageBidMicros": "16732912"
+        },
+        {
+          "text": "door replacements",
+          "avgMonthlySearches": "40",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "938047",
+          "highTopOfPageBidMicros": "12601154"
+        },
+        {
+          "text": "replacing garage doors",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3128913",
+          "highTopOfPageBidMicros": "19375330"
+        },
+        {
+          "text": "doors and installation",
+          "avgMonthlySearches": "40",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": "1492696",
+          "highTopOfPageBidMicros": "16732912"
+        },
+        {
+          "text": "garage door installation",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "5662382",
+          "highTopOfPageBidMicros": "20446868"
+        },
+        {
+          "text": "window installation",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "522952",
+          "highTopOfPageBidMicros": "29933343"
+        },
+        {
+          "text": "garage door repairman near me",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "4888575",
+          "highTopOfPageBidMicros": "35687997"
+        },
+        {
+          "text": "garage door and installation",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "5662382",
+          "highTopOfPageBidMicros": "20446868"
+        },
+        {
+          "text": "overhead door repairs",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "10577927",
+          "highTopOfPageBidMicros": "57022127"
+        },
+        {
+          "text": "garage door fitters",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "5662382",
+          "highTopOfPageBidMicros": "20446868"
+        },
+        {
+          "text": "installation for garage door",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "5662382",
+          "highTopOfPageBidMicros": "20446868"
+        },
+        {
+          "text": "window and installation",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "522952",
+          "highTopOfPageBidMicros": "29933343"
+        },
+        {
+          "text": "garage gate installation",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "5662382",
+          "highTopOfPageBidMicros": "20446868"
+        },
+        {
+          "text": "window installers near me",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "8652073",
+          "highTopOfPageBidMicros": "30123494"
+        },
+        {
+          "text": "window contractors near me",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "8652073",
+          "highTopOfPageBidMicros": "30123494"
+        },
+        {
+          "text": "replacing garage door spring",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2662648",
+          "highTopOfPageBidMicros": "19407939"
+        },
+        {
+          "text": "window replacement glass",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "4386447",
+          "highTopOfPageBidMicros": "22513311"
+        },
+        {
+          "text": "window installation contractors near me",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "8652073",
+          "highTopOfPageBidMicros": "30123494"
+        },
+        {
+          "text": "ring door installation",
+          "avgMonthlySearches": "20",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation service",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation service",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window installers",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door service near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1119523",
+          "highTopOfPageBidMicros": "6942826"
+        },
+        {
+          "text": "andersen window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2818362",
+          "highTopOfPageBidMicros": "12477746"
+        },
+        {
+          "text": "overhead door company near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation cost",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "4362210",
+          "highTopOfPageBidMicros": "9748791"
+        },
+        {
+          "text": "best window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "front door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cheap window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "fbc0a3e0-b41c-4a29-98af-283a5a47b3e9",
+        "city": "Ayr",
+        "province": "ON",
+        "slug": "ayr"
+      },
+      "geoId": "1002170",
+      "ideas": [
+        {
+          "text": "window installation service",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door service near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacements near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage opener installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding glass door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new garage door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener service",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacing garage door spring",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windows and doors installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacement contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door repairman near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "glass installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial door company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "liftmaster gate repair",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window well installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding glass door installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacement window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding patio door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "145ec83b-51ce-41c9-bfd5-794939d9f9f2",
+        "city": "Waterloo",
+        "province": "ON",
+        "slug": "waterloo"
+      },
+      "geoId": "1002464",
+      "ideas": [
+        {
+          "text": "window replacements near me",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2282260",
+          "highTopOfPageBidMicros": "11124414"
+        },
+        {
+          "text": "door installation",
+          "avgMonthlySearches": "20",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": "606471",
+          "highTopOfPageBidMicros": "19738839"
+        },
+        {
+          "text": "garage opener installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2282260",
+          "highTopOfPageBidMicros": "11124414"
+        },
+        {
+          "text": "garage door repairman near me",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "3387706",
+          "highTopOfPageBidMicros": "19273453"
+        },
+        {
+          "text": "garage door and installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacement glass",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2605033",
+          "highTopOfPageBidMicros": "13969635"
+        },
+        {
+          "text": "garage door opener and installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2282260",
+          "highTopOfPageBidMicros": "11124414"
+        },
+        {
+          "text": "replacing garage doors",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2735759",
+          "highTopOfPageBidMicros": "14520568"
+        },
+        {
+          "text": "garage door fitters",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "doors and installation",
+          "avgMonthlySearches": "20",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": "606471",
+          "highTopOfPageBidMicros": "19738839"
+        },
+        {
+          "text": "installation for garage door",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage gate installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door & opener installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2282260",
+          "highTopOfPageBidMicros": "11124414"
+        },
+        {
+          "text": "window installation service",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installers near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "749020",
+          "highTopOfPageBidMicros": "41631500"
+        },
+        {
+          "text": "door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door service near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6488260",
+          "highTopOfPageBidMicros": "12904614"
+        },
+        {
+          "text": "andersen window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "803089",
+          "highTopOfPageBidMicros": "19248467"
+        },
+        {
+          "text": "storm door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "overhead door company near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "749020",
+          "highTopOfPageBidMicros": "41631500"
+        },
+        {
+          "text": "best window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "front door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cheap window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "affordable window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "bay window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "df559762-b350-4416-8083-8cb496df59f0",
+        "city": "Guelph",
+        "province": "ON",
+        "slug": "guelph"
+      },
+      "geoId": "1002283",
+      "ideas": [
+        {
+          "text": "garage door opener installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1627569",
+          "highTopOfPageBidMicros": "5053504"
+        },
+        {
+          "text": "garage opener installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1627569",
+          "highTopOfPageBidMicros": "5053504"
+        },
+        {
+          "text": "garage door opener and installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1627569",
+          "highTopOfPageBidMicros": "5053504"
+        },
+        {
+          "text": "garage door & opener installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1627569",
+          "highTopOfPageBidMicros": "5053504"
+        },
+        {
+          "text": "window installation service",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window installers",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installers near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "3215725",
+          "highTopOfPageBidMicros": "30474260"
+        },
+        {
+          "text": "garage door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3634309",
+          "highTopOfPageBidMicros": "16959271"
+        },
+        {
+          "text": "door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door service near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1679827",
+          "highTopOfPageBidMicros": "22002239"
+        },
+        {
+          "text": "andersen window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2046618",
+          "highTopOfPageBidMicros": "16007808"
+        },
+        {
+          "text": "storm door installation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "overhead door company near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "3215725",
+          "highTopOfPageBidMicros": "30474260"
+        },
+        {
+          "text": "best window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "front door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cheap window replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "7575601",
+          "highTopOfPageBidMicros": "17858019"
+        },
+        {
+          "text": "window replacements near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "affordable window replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "bay window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new window installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding glass door installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "7575601",
+          "highTopOfPageBidMicros": "17858019"
+        },
+        {
+          "text": "door replacement companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1989252",
+          "highTopOfPageBidMicros": "13564283"
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "c644caac-6624-4927-ad84-93eea2e67efb",
+        "city": "Fergus",
+        "province": "ON",
+        "slug": "fergus"
+      },
+      "geoId": "1002264",
+      "ideas": [
+        {
+          "text": "window installation service",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door service near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "overhead door company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "front door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacements near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage opener installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door fitters near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding glass door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new garage door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home depot windows installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "interior door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door replacement companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacing garage door spring",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "bay window replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "automatic garage door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacement window companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "interior door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "8f70b054-48c7-41b5-abac-8b7b188a84a8",
+        "city": "Elmira",
+        "province": "ON",
+        "slug": "elmira"
+      },
+      "geoId": "1002253",
+      "ideas": [
+        {
+          "text": "window installation service",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installers near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door service near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "overhead door company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "front door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacements near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage opener installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding glass door installation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door sales and installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacing garage door spring",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door repairman near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "glass installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window well installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacement cost per window",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "5b5a7c49-26bf-49a2-aa53-e9d9df4451fd",
+        "city": "Baden",
+        "province": "ON",
+        "slug": "baden"
+      },
+      "geoId": "1002171",
+      "ideas": [
+        {
+          "text": "window installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door service near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "overhead door company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacements near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage opener installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding glass door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior door installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "interior door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door replacement companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacing garage door spring",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "bathroom window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacement window companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windows and doors installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door repairman near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "glass door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window well installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding glass door installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window screen installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "606280c2-f2d0-46ce-b3bf-961d7c7f7a5a",
+        "city": "New Hamburg",
+        "province": "ON",
+        "slug": "new-hamburg"
+      },
+      "geoId": "1002359",
+      "ideas": [
+        {
+          "text": "window installation service",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3183329",
+          "highTopOfPageBidMicros": "5849620"
+        },
+        {
+          "text": "door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door service near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "overhead door company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cheap window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacements near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "affordable window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage opener installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3183329",
+          "highTopOfPageBidMicros": "5849620"
+        },
+        {
+          "text": "new door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding glass door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "interior door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door replacement companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacing garage door spring",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "bathroom window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacement window companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windows and doors installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door repairman near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home depot window replacement cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior door contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window well installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "a086dbab-6b44-418e-9f78-3ebc81a93d3a",
+        "city": "Hamilton",
+        "province": "ON",
+        "slug": "hamilton"
+      },
+      "geoId": "1002287",
+      "ideas": [
+        {
+          "text": "window replacements near me",
+          "avgMonthlySearches": "140",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": "4854164",
+          "highTopOfPageBidMicros": "57640452"
+        },
+        {
+          "text": "garage door opener installation",
+          "avgMonthlySearches": "90",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3255075",
+          "highTopOfPageBidMicros": "11989727"
+        },
+        {
+          "text": "garage opener installation",
+          "avgMonthlySearches": "90",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3255075",
+          "highTopOfPageBidMicros": "11989727"
+        },
+        {
+          "text": "garage door repairman near me",
+          "avgMonthlySearches": "90",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6967981",
+          "highTopOfPageBidMicros": "19415175"
+        },
+        {
+          "text": "garage door opener and installation",
+          "avgMonthlySearches": "90",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3255075",
+          "highTopOfPageBidMicros": "11989727"
+        },
+        {
+          "text": "garage door & opener installation",
+          "avgMonthlySearches": "90",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3255075",
+          "highTopOfPageBidMicros": "11989727"
+        },
+        {
+          "text": "window replacement glass",
+          "avgMonthlySearches": "70",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3959347",
+          "highTopOfPageBidMicros": "21682611"
+        },
+        {
+          "text": "window installers near me",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2945995",
+          "highTopOfPageBidMicros": "34373578"
+        },
+        {
+          "text": "garage door installation",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2403537",
+          "highTopOfPageBidMicros": "16025039"
+        },
+        {
+          "text": "door installation",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "5665026",
+          "highTopOfPageBidMicros": "20115222"
+        },
+        {
+          "text": "window installation",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "8546334",
+          "highTopOfPageBidMicros": "31536943"
+        },
+        {
+          "text": "window contractors near me",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2945995",
+          "highTopOfPageBidMicros": "34373578"
+        },
+        {
+          "text": "garage door and installation",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2403537",
+          "highTopOfPageBidMicros": "16025039"
+        },
+        {
+          "text": "garage door fitters",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2403537",
+          "highTopOfPageBidMicros": "16025039"
+        },
+        {
+          "text": "doors and installation",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "5665026",
+          "highTopOfPageBidMicros": "20115222"
+        },
+        {
+          "text": "window installation contractors near me",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2945995",
+          "highTopOfPageBidMicros": "34373578"
+        },
+        {
+          "text": "installation for garage door",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2403537",
+          "highTopOfPageBidMicros": "16025039"
+        },
+        {
+          "text": "window and installation",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "8546334",
+          "highTopOfPageBidMicros": "31536943"
+        },
+        {
+          "text": "garage gate installation",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2403537",
+          "highTopOfPageBidMicros": "16025039"
+        },
+        {
+          "text": "ring door installation",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "55039",
+          "highTopOfPageBidMicros": "577919"
+        },
+        {
+          "text": "replacing garage door spring",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1794368",
+          "highTopOfPageBidMicros": "11941636"
+        },
+        {
+          "text": "door replacements",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "621105",
+          "highTopOfPageBidMicros": "32485191"
+        },
+        {
+          "text": "garage door service near me",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "overhead door repairs",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacing garage doors",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2131366",
+          "highTopOfPageBidMicros": "14501112"
+        },
+        {
+          "text": "chamberlain garage door opener installation",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "493027",
+          "highTopOfPageBidMicros": "6227650"
+        },
+        {
+          "text": "kitchen installation ikea",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1738084",
+          "highTopOfPageBidMicros": "9062957"
+        },
+        {
+          "text": "chamberlain garage opener installation",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "493027",
+          "highTopOfPageBidMicros": "6227650"
+        },
+        {
+          "text": "window installation service",
+          "avgMonthlySearches": "20",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "13573044",
+          "highTopOfPageBidMicros": "39491199"
+        },
+        {
+          "text": "window replacement company",
+          "avgMonthlySearches": "20",
+          "competition": null,
+          "lowTopOfPageBidMicros": "371824",
+          "highTopOfPageBidMicros": "611088"
+        },
+        {
+          "text": "exterior door installation",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "1737385",
+          "highTopOfPageBidMicros": "22411871"
+        },
+        {
+          "text": "interior door installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1911669",
+          "highTopOfPageBidMicros": "57476367"
+        },
+        {
+          "text": "window well installation",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "583093",
+          "highTopOfPageBidMicros": "3376010"
+        },
+        {
+          "text": "window replacement contractors",
+          "avgMonthlySearches": "20",
+          "competition": null,
+          "lowTopOfPageBidMicros": "371824",
+          "highTopOfPageBidMicros": "611088"
+        },
+        {
+          "text": "bifold door installation",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "doors and window replacement",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "4688347",
+          "highTopOfPageBidMicros": "30227065"
+        },
+        {
+          "text": "indoor door installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1911669",
+          "highTopOfPageBidMicros": "57476367"
+        },
+        {
+          "text": "storm door and installation",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "13573044",
+          "highTopOfPageBidMicros": "39491199"
+        },
+        {
+          "text": "installing skylight",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "8182518",
+          "highTopOfPageBidMicros": "13724437"
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "c03273be-e73f-46f6-b576-c420e2faf533",
+        "city": "Cambridge",
+        "province": "ON",
+        "slug": "cambridge"
+      },
+      "geoId": "1002200",
+      "ideas": [
+        {
+          "text": "garage door opener installation",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2259606",
+          "highTopOfPageBidMicros": "11858696"
+        },
+        {
+          "text": "garage opener installation",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2259606",
+          "highTopOfPageBidMicros": "11858696"
+        },
+        {
+          "text": "garage door opener and installation",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2259606",
+          "highTopOfPageBidMicros": "11858696"
+        },
+        {
+          "text": "garage door & opener installation",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2259606",
+          "highTopOfPageBidMicros": "11858696"
+        },
+        {
+          "text": "garage door installation",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2594619",
+          "highTopOfPageBidMicros": "18300799"
+        },
+        {
+          "text": "garage door repairman near me",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "4880746",
+          "highTopOfPageBidMicros": "22096275"
+        },
+        {
+          "text": "garage door and installation",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2594619",
+          "highTopOfPageBidMicros": "18300799"
+        },
+        {
+          "text": "window replacement glass",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "7837625",
+          "highTopOfPageBidMicros": "16876368"
+        },
+        {
+          "text": "replacing garage doors",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "4915542",
+          "highTopOfPageBidMicros": "20505574"
+        },
+        {
+          "text": "garage door fitters",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2594619",
+          "highTopOfPageBidMicros": "18300799"
+        },
+        {
+          "text": "installation for garage door",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2594619",
+          "highTopOfPageBidMicros": "18300799"
+        },
+        {
+          "text": "garage gate installation",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2594619",
+          "highTopOfPageBidMicros": "18300799"
+        },
+        {
+          "text": "window installation service",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation service",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installers near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": "1479948",
+          "highTopOfPageBidMicros": "25349348"
+        },
+        {
+          "text": "door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door service near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "4565193",
+          "highTopOfPageBidMicros": "14446720"
+        },
+        {
+          "text": "door installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "andersen window replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "1508138",
+          "highTopOfPageBidMicros": "50525079"
+        },
+        {
+          "text": "storm door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "overhead door company near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": "1479948",
+          "highTopOfPageBidMicros": "25349348"
+        },
+        {
+          "text": "best window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "front door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cheap window replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacements near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "981123",
+          "highTopOfPageBidMicros": "37401055"
+        },
+        {
+          "text": "window installation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2868860",
+          "highTopOfPageBidMicros": "23557119"
+        },
+        {
+          "text": "affordable window replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "bay window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "cfca31b3-2182-4582-9944-289ea038cb2e",
+        "city": "Paris",
+        "province": "ON",
+        "slug": "paris"
+      },
+      "geoId": "1002378",
+      "ideas": [
+        {
+          "text": "window installation service",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation service",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window installers",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door service near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "overhead door company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "front door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cheap window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacements near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "affordable window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage opener installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding glass door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new garage door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new front door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "interior door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replacing garage door spring",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "23b01ec8-20d5-4a52-a80d-fa545f22df80",
+        "city": "Brantford",
+        "province": "ON",
+        "slug": "brantford"
+      },
+      "geoId": "1002192",
+      "ideas": [
+        {
+          "text": "garage door opener installation",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "910186",
+          "highTopOfPageBidMicros": "12053578"
+        },
+        {
+          "text": "garage opener installation",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "910186",
+          "highTopOfPageBidMicros": "12053578"
+        },
+        {
+          "text": "garage door opener and installation",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "910186",
+          "highTopOfPageBidMicros": "12053578"
+        },
+        {
+          "text": "garage door & opener installation",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "910186",
+          "highTopOfPageBidMicros": "12053578"
+        },
+        {
+          "text": "window installation service",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation service",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window installers",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installers near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "635892",
+          "highTopOfPageBidMicros": "26446719"
+        },
+        {
+          "text": "garage door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "12036301",
+          "highTopOfPageBidMicros": "20445271"
+        },
+        {
+          "text": "door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door service near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "basement window replacement",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "door installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "6531405",
+          "highTopOfPageBidMicros": "27378230"
+        },
+        {
+          "text": "andersen window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "1045432",
+          "highTopOfPageBidMicros": "58268382"
+        },
+        {
+          "text": "storm door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "overhead door company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "635892",
+          "highTopOfPageBidMicros": "26446719"
+        },
+        {
+          "text": "best window replacement company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "egress window installation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "front door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cheap window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "5371952",
+          "highTopOfPageBidMicros": "25432151"
+        },
+        {
+          "text": "window replacements near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window installation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "affordable window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "bay window replacement",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "storm door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new window installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door installation cost",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "patio door installation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "new door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sliding glass door installation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "5371952",
+          "highTopOfPageBidMicros": "25432151"
+        },
+        {
+          "text": "door replacement companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage door opener installation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1602503",
+          "highTopOfPageBidMicros": "8281691"
+        }
+      ]
+    }
+  ],
+  "topOverall": [
+    {
+      "text": "window replacements near me",
+      "avgMonthlySearches": "70",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "3675500",
+      "highTopOfPageBidMicros": "27343267"
+    },
+    {
+      "text": "garage door opener installation",
+      "avgMonthlySearches": "50",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "1749880",
+      "highTopOfPageBidMicros": "11328409"
+    },
+    {
+      "text": "garage opener installation",
+      "avgMonthlySearches": "50",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "1749880",
+      "highTopOfPageBidMicros": "11328409"
+    },
+    {
+      "text": "garage door opener and installation",
+      "avgMonthlySearches": "50",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "1749880",
+      "highTopOfPageBidMicros": "11328409"
+    },
+    {
+      "text": "garage door & opener installation",
+      "avgMonthlySearches": "50",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "1749880",
+      "highTopOfPageBidMicros": "11328409"
+    },
+    {
+      "text": "door installation",
+      "avgMonthlySearches": "40",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": "1492696",
+      "highTopOfPageBidMicros": "16732912"
+    },
+    {
+      "text": "door replacements",
+      "avgMonthlySearches": "40",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "938047",
+      "highTopOfPageBidMicros": "12601154"
+    },
+    {
+      "text": "replacing garage doors",
+      "avgMonthlySearches": "40",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "3128913",
+      "highTopOfPageBidMicros": "19375330"
+    },
+    {
+      "text": "doors and installation",
+      "avgMonthlySearches": "40",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": "1492696",
+      "highTopOfPageBidMicros": "16732912"
+    },
+    {
+      "text": "garage door installation",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "5662382",
+      "highTopOfPageBidMicros": "20446868"
+    },
+    {
+      "text": "window installation",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "522952",
+      "highTopOfPageBidMicros": "29933343"
+    },
+    {
+      "text": "garage door repairman near me",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "4888575",
+      "highTopOfPageBidMicros": "35687997"
+    },
+    {
+      "text": "garage door and installation",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "5662382",
+      "highTopOfPageBidMicros": "20446868"
+    },
+    {
+      "text": "overhead door repairs",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "10577927",
+      "highTopOfPageBidMicros": "57022127"
+    },
+    {
+      "text": "garage door fitters",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "5662382",
+      "highTopOfPageBidMicros": "20446868"
+    },
+    {
+      "text": "installation for garage door",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "5662382",
+      "highTopOfPageBidMicros": "20446868"
+    },
+    {
+      "text": "window and installation",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "522952",
+      "highTopOfPageBidMicros": "29933343"
+    },
+    {
+      "text": "garage gate installation",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "5662382",
+      "highTopOfPageBidMicros": "20446868"
+    },
+    {
+      "text": "chamberlain garage door opener installation",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "493027",
+      "highTopOfPageBidMicros": "6227650"
+    },
+    {
+      "text": "kitchen installation ikea",
+      "avgMonthlySearches": "30",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "1738084",
+      "highTopOfPageBidMicros": "9062957"
+    },
+    {
+      "text": "chamberlain garage opener installation",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "493027",
+      "highTopOfPageBidMicros": "6227650"
+    },
+    {
+      "text": "window installers near me",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "8652073",
+      "highTopOfPageBidMicros": "30123494"
+    },
+    {
+      "text": "window contractors near me",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "8652073",
+      "highTopOfPageBidMicros": "30123494"
+    },
+    {
+      "text": "replacing garage door spring",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "2662648",
+      "highTopOfPageBidMicros": "19407939"
+    },
+    {
+      "text": "window replacement glass",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "4386447",
+      "highTopOfPageBidMicros": "22513311"
+    },
+    {
+      "text": "window installation contractors near me",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "8652073",
+      "highTopOfPageBidMicros": "30123494"
+    },
+    {
+      "text": "ring door installation",
+      "avgMonthlySearches": "20",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "window replacement contractors",
+      "avgMonthlySearches": "20",
+      "competition": null,
+      "lowTopOfPageBidMicros": "371824",
+      "highTopOfPageBidMicros": "611088"
+    },
+    {
+      "text": "bifold door installation",
+      "avgMonthlySearches": "20",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "doors and window replacement",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "4688347",
+      "highTopOfPageBidMicros": "30227065"
+    },
+    {
+      "text": "indoor door installation",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "1911669",
+      "highTopOfPageBidMicros": "57476367"
+    },
+    {
+      "text": "storm door and installation",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "13573044",
+      "highTopOfPageBidMicros": "39491199"
+    },
+    {
+      "text": "installing skylight",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "8182518",
+      "highTopOfPageBidMicros": "13724437"
+    },
+    {
+      "text": "window installation service",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "door installation service",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "professional window installers",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "door installation near me",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "garage door service near me",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "garage door installation near me",
+      "avgMonthlySearches": "10",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "basement window replacement",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "1119523",
+      "highTopOfPageBidMicros": "6942826"
+    },
+    {
+      "text": "andersen window replacement",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "storm door installation",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "2818362",
+      "highTopOfPageBidMicros": "12477746"
+    },
+    {
+      "text": "overhead door company near me",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "window installation cost",
+      "avgMonthlySearches": "10",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "4362210",
+      "highTopOfPageBidMicros": "9748791"
+    },
+    {
+      "text": "best window replacement company",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "egress window installation near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "egress window installation",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "front door installation",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "cheap window replacement",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "patio door installation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "sliding door installation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "garage door opener installation near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "new window installation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "sliding glass door installation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "garage door opener installation cost",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "new garage door installation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "garage door opener service",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "exterior door installation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "windows and doors installation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "window replacement contractors near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    }
+  ]
+}

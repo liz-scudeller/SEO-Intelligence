@@ -1,4 +1,4 @@
-const { google } = require('googleapis');
+import { google } from 'googleapis';
 
 const oauth2Client = new google.auth.OAuth2(
   process.env.CLIENT_ID,
@@ -12,4 +12,4 @@ oauth2Client.setCredentials({
 
 const getOAuthClient = () => oauth2Client;
 
-module.exports = { getOAuthClient };
+export { getOAuthClient };

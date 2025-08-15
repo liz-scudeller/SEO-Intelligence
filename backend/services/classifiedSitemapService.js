@@ -1,12 +1,12 @@
-const axios = require('axios');
-const xml2js = require('xml2js');
-const { classifyUrl } = require('./classifyUrl');
-const ClassifiedPage = require('../models/classifiedPage');
+import axios from 'axios';
+import { parseStringPromise } from 'xml2js';
+import { classifyUrl } from './classifyUrl.js';
+import ClassifiedPage from '../models/classifiedPage.cjs';
 
-async function fetchAndClassifyUrls(sitemapUrl) {
+export async function fetchAndClassifyUrls(sitemapUrl) {
   try {
     const res = await axios.get(sitemapUrl);
-    const parsed = await xml2js.parseStringPromise(res.data);
+    const parsed = await parseStringPromise(res.data);
     const urls = parsed.urlset.url.map((entry) => entry.loc[0]);
 
     const classified = urls.map(classifyUrl);
@@ -25,5 +25,3 @@ async function fetchAndClassifyUrls(sitemapUrl) {
     return [];
   }
 }
-
-module.exports = { fetchAndClassifyUrls };

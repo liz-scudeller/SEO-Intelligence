@@ -1,12 +1,12 @@
-const axios = require('axios');
-const cheerio = require('cheerio');
-const getMetaTags = require('./getMetaTags');
-const getHeadings = require('./getHeadings');
-const getStructuredData = require('./getStructuredData');
-const getLinks = require('./getLinks');
-const calculateScore = require('./calculateScore');
+import axios from 'axios';
+import * as cheerio from 'cheerio';
+import { getMetaTags } from './getMetaTags.js';
+import { getHeadings } from './getHeadings.js';
+import { getStructuredData } from './getStructuredData.js';
+import { getLinks } from './getLinks.js';
+import { calculateScore } from './calculateScore.js';
 
-async function analyzeSEO(url) {
+export async function analyzeSEO(url) {
   try {
     const { data: html } = await axios.get(url, {
       headers: {
@@ -46,5 +46,3 @@ async function analyzeSEO(url) {
     };
   }
 }
-
-module.exports = { analyzeSEO };

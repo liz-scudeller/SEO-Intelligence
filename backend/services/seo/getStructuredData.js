@@ -1,4 +1,4 @@
-function getStructuredData($) {
+export function getStructuredData($) {
   const data = [];
   $('script[type="application/ld+json"]').each((i, el) => {
     try {
@@ -10,5 +10,3 @@ function getStructuredData($) {
   });
   return data;
 }
-
-module.exports = getStructuredData;

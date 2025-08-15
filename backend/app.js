@@ -1,15 +1,16 @@
-require('dotenv').config();
-const express = require('express');
-const cors = require('cors');
-const mongoose = require('mongoose');
-const bodyParser = require('body-parser');
+import 'dotenv/config';
+import express from 'express';
+import cors from 'cors';
+import mongoose from 'mongoose';
+import bodyParser from 'body-parser';
 
-const gscRoute = require('./routes/gscRoute');
-const openAIRoute = require('./routes/openAIRoute');
-const SeoTasksRoute = require('./routes/seoTasksRoute');
-const classifiedPagesRoute = require('./routes/classifiedPagesRoute');
-const seoReportRoute = require('./routes/seoReportRoute');
-const blogIdeasRoute = require('./routes/seo/blogIdeasRoute'); 
+import gscRoute from './routes/gscRoute.js';
+import openAIRoute from './routes/openAIRoute.js';
+import SeoTasksRoute from './routes/seoTasksRoute.js';
+import classifiedPagesRoute from './routes/classifiedPagesRoute.js';
+import seoReportRoute from './routes/seoReportRoute.js';
+import blogIdeasRoute from './routes/seo/blogIdeasRoute.js';
+import adsRoutes from './routes/ads.cjs';
 
 const app = express();
 
@@ -33,6 +34,7 @@ app.get('/', (req, res) => {
   res.send('SEO AI Backend is running ✅');
 });
 
+app.use('/ads', adsRoutes);
 app.use('/gsc', gscRoute);
 app.use('/ai', openAIRoute);
 app.use('/api/seo-tasks', SeoTasksRoute);

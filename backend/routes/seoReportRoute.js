@@ -1,12 +1,14 @@
-const express = require('express');
-const router = express.Router();
-const mongoose = require('mongoose');
-const ExcelJS = require('exceljs');
+import express from 'express';
+import mongoose from 'mongoose';
+import ExcelJS from 'exceljs';
 
-const ClassifiedPage = require('../models/classifiedPage');
-const { analyzeSEO } = require('../services/seo/seoAnalyzer');
-const { generateAiRecommendations } = require('../utils/generateAiRecommendations');
-const { generateTitleAndMetaWithGPT } = require('../utils/generateGptSuggestions');
+import ClassifiedPage from '../models/classifiedPage.cjs';
+import { analyzeSEO } from '../services/seo/seoAnalyzer.js';
+import { generateAiRecommendations } from '../utils/generateAiRecommendations.js';
+import { generateTitleAndMetaWithGPT } from '../utils/generateGptSuggestions.js';
+
+const router = express.Router();
+
 
 
 
@@ -350,4 +352,4 @@ if ('hasCallToAction' in req.body) page.gptSuggestions.hasCallToAction = hasCall
 });
 
 
-module.exports = router;
+export default router;

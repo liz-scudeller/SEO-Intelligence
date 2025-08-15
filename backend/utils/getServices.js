@@ -1,6 +1,6 @@
-const supabase = require('../services/supabaseClient');
+import { supabase } from '../services/supabaseClient.js';
 
-async function getServicesFromSettings() {
+export async function getServicesFromSettings() {
   const { data, error } = await supabase
     .from('services')
     .select('name, slug, keyword')
@@ -13,8 +13,6 @@ async function getServicesFromSettings() {
 
   return data.map(service => ({
     ...service,
-    keywords: service.keyword || []  // ✅ converte `keyword` em `keywords` para manter compatibilidade
+    keywords: service.keyword || [] // ✅ converte `keyword` em `keywords` para manter compatibilidade
   }));
 }
-
-module.exports = { getServicesFromSettings };

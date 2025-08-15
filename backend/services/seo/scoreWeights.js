@@ -1,4 +1,4 @@
-module.exports = {
+export const scoreWeights = {
   title: 15,
   description: 15,
   openGraph: 10,

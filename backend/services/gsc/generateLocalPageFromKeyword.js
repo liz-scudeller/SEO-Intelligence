@@ -1,30 +1,33 @@
-function generateLocalPageFromKeyword(keyword, url, metrics = {}) {
-  const location = extractCityFromKeyword(keyword);
-  if (!location) return null;
+import { getCitiesFromSettings } from '../../utils/getCities.js';
+import { getServicesFromSettings } from '../../utils/getServices.js';
 
-  const services = [
-    'eavestrough installation',
-    'gutter cleaning',
-    'gutter guards',
-    'attic insulation',
-    'window cleaning',
-    'window installation',
-    'door installation',
-    'soffit and fascia',
-    'window and door installation',
-  ];
 
-  const foundService = services.find(s =>
-    keyword.toLowerCase().includes(s)
-  );
-  if (!foundService) return null;
+export default async function generateLocalPageFromKeyword(keyword, url, metrics = {}) {
+  const location = await extractCityFromKeyword(keyword);
+  if (!location) {
+    return null;
+  }
 
-  const serviceSlug = foundService.replace(/ /g, '-');
+  const services = await getServicesFromSettings();
+const foundService = services.find(service =>
+  service.keywords.some(k =>
+    keyword.toLowerCase().includes(k.toLowerCase())
+  )
+);
+
+  if (!foundService) {
+    return null;
+  }
+
+  const serviceSlug = foundService.name.replace(/ /g, '-');
+
   const slug = `${serviceSlug}-${location.toLowerCase()}`;
-  const seoTitle = `${capitalize(foundService)} in ${location}`;
-  const metaDescription = `Explore expert ${foundService} services in ${location}. Trusted by homeowners. Get a quote today.`;
+  const seoTitle = `${capitalize(foundService.name)} in ${location}`;
+const metaDescription = `Explore expert ${foundService.name} services in ${location}. Trusted by homeowners. Get a quote today.`;
 
-  const nearbyNeighbourhoods = getNeighbourhoodsByCity(location).join(', ');
+  const nearbyNeighbourhoods = (await getCitiesFromSettings()).join(', ');
+
+const servicesList = services.map(s => `- ${s.name}`).join('\n');
 
   const contentPrompt = `
 Generate an SEO-optimized local service page for a home exterior company.
@@ -66,6 +69,11 @@ Use public search data to suggest 4–5 specific FAQs and write clear, helpful a
 Avoid generic FAQs — focus on what local homeowners would actually search.  
 Use headings for each question, followed by a short paragraph answer. Keep tone professional, trustworthy, and informative.
 
+7. **Other Services Available in ${location}**  
+Include the following list of all exterior services we provide for homeowners in ${location}:  
+
+${servicesList}
+
 Style:  
 - Tone: Professional, trustworthy, and friendly  
 - Emphasize local relevance and SEO (use ${location} naturally)  
@@ -74,6 +82,14 @@ Style:
 
 Return only the page content (no explanations).
 `;
+
+for (const service of services) {
+  for (const k of service.keywords) {
+    if (keyword.toLowerCase().includes(k.toLowerCase())) {
+      console.log(`DEBUG: Matched keyword "${k}" in service "${service.name}"`);
+    }
+  }
+}
 
   return {
     slug,
@@ -89,35 +105,18 @@ Return only the page content (no explanations).
   };
 }
 
-function extractCityFromKeyword(keyword) {
-  const allowedCities = [
-    'Kitchener', 'Waterloo', 'Cambridge', 'Guelph', 'Fergus',
-    'Ayr', 'Elmira', 'Baden', 'New Hamburg', 'Hamilton'
-  ];
-  const parts = keyword.split(' ');
-  return allowedCities.find(city =>
-    parts.some(p => p.toLowerCase() === city.toLowerCase())
+async function extractCityFromKeyword(keyword) {
+  const allowedCities = await getCitiesFromSettings();
+  const normalizedKeyword = keyword.toLowerCase();
+  const foundCity = allowedCities.find(city =>
+    normalizedKeyword.includes(city.toLowerCase())
   );
+  return foundCity;
 }
 
+
 function capitalize(str) {
+  if (!str) return '';
   return str[0].toUpperCase() + str.slice(1);
 }
 
-function getNeighbourhoodsByCity(city) {
-  const map = {
-    Kitchener: ['Downtown', 'Forest Heights', 'Stanley Park', 'Huron Park', 'Country Hills', 'Pioneer Park'],
-    Waterloo: ['Uptown Waterloo', 'Beechwood', 'Laurelwood', 'Westmount', 'Columbia Forest', 'Eastbridge'],
-    Cambridge: ['Galt', 'Preston', 'Hespeler', 'West Galt', 'East Galt', 'Northview'],
-    Guelph: ['Downtown Guelph', 'Kortright Hills', 'Grange Hill East', 'Westminster Woods', 'Exhibition Park'],
-    Fergus: ['Downtown Fergus', 'South End', 'North End', 'Victoria Terrace'],
-    Elmira: ['Downtown Elmira', 'Birdland', 'Maple Street Area'],
-    Hamilton: ['Stoney Creek', 'Dundas', 'Ancaster', 'East Hamilton', 'West Hamilton', 'Mountain'],
-    Baden: ['Downtown Baden', 'Snyder\'s Flats', 'Trussler'],
-    'New Hamburg': ['Downtown', 'Stonecroft', 'Breslau'],
-    Ayr: ['North Ayr', 'South Ayr', 'Jedburgh', 'Nithridge'],
-  };
-  return map[city] || [];
-}
-
-module.exports = generateLocalPageFromKeyword;

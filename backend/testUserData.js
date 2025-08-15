@@ -1,5 +1,6 @@
-const { fetchUserLocations } = require('./services/fetchUserLocations');
-const { fetchUserServices } = require('./services/fetchUserServices');
+import { fetchUserLocations } from './services/fetchUserLocations.js';
+import { fetchUserServices } from './services/fetchUserServices.js';
+
 
 const userId = 'a55e9572-6a61-43c7-9bbb-ef319554b974'; // seu ID real
 

@@ -1,10 +1,12 @@
-const express = require('express');
+import express from 'express';
+import SeoTask from '../models/seoTask.js';
+import generateLocalPageFromKeyword from '../services/gsc/generateLocalPageFromKeyword.js';
+import { supabase } from '../services/supabaseClient.js';
+import { generateBlogContentFromPrompt } from '../services/openAIService.js';
+import axios from 'axios';
+
 const router = express.Router();
-const SeoTask = require('../models/seoTask');
-const generateLocalPageFromKeyword = require('../services/gsc/generateLocalPageFromKeyword');
-const  supabase = require('../services/supabaseClient');
-const { generateBlogContentFromPrompt } = require('../services/openAIService');
-const axios = require('axios');
+
 
 
 // GET all tasks
@@ -76,7 +78,7 @@ router.delete('/:id', async (req, res) => {
 });
 
 // POST regenerate content
-const { OpenAI } = require('openai');
+import { OpenAI } from 'openai';
 const openai = new OpenAI({ apiKey: process.env.OPENAI_SECRET });
 
 router.post('/:id/generate-content', async (req, res) => {
@@ -181,7 +183,6 @@ router.post('/generate-local-page', async (req, res) => {
   if (!keyword || !url || !userId) {
     return res.status(400).json({ error: 'Missing params' });
   }
-
   const task = await generateLocalPageFromKeyword(keyword, url, metrics || {});
   if (!task) {
     return res.status(400).json({ error: 'Could not extract location' });
@@ -202,6 +203,7 @@ router.patch('/:id/generate-local-page', async (req, res) => {
   const { metrics = {} } = body;
   const { id } = req.params;
 
+
   try {
     const existingTask = await SeoTask.findById(id);
     if (!existingTask) {
@@ -215,14 +217,13 @@ router.patch('/:id/generate-local-page', async (req, res) => {
       return res.status(400).json({ error: 'Could not extract location' });
     }
 
-    // Atualiza os campos gerados
     Object.assign(existingTask, updatedFields);
 
-    // Salva métricas
-    existingTask.impressions = metrics.impressions || 0;
-    existingTask.clicks = metrics.clicks || 0;
-    existingTask.ctr = metrics.ctr || 0;
-    existingTask.position = metrics.position || 0;
+    const { impressions = 0, clicks = 0, ctr = 0, position = 0 } = metrics;
+    existingTask.impressions = impressions;
+    existingTask.clicks = clicks;
+    existingTask.ctr = ctr;
+    existingTask.position = position;
 
     await existingTask.save();
 
@@ -401,4 +402,4 @@ router.get('/implementation-report', async (req, res) => {
 
 
 
-module.exports = router;
+export default router;

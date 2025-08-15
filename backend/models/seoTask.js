@@ -1,4 +1,4 @@
-const mongoose = require('mongoose');
+import mongoose from 'mongoose';
 
 const seoTaskSchema = new mongoose.Schema({
   keyword: String,
@@ -17,9 +17,8 @@ const seoTaskSchema = new mongoose.Schema({
   content: String,
   status: { type: String, enum: ['pending', 'done'], default: 'pending' },
   posted: { type: Boolean, default: false }, 
-    userId: String,
-    doneAt: { type: Date, default: null },
-
+  userId: String,
+  doneAt: { type: Date, default: null },
 }, { timestamps: true });
 
-module.exports = mongoose.model('SeoTask', seoTaskSchema);
+export default mongoose.model('SeoTask', seoTaskSchema);

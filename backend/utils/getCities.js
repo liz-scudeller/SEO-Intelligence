@@ -1,6 +1,6 @@
-const supabase = require('../services/supabaseClient');
+import { supabase } from '../services/supabaseClient.js';
 
-async function getCitiesFromSettings() {
+export async function getCitiesFromSettings() {
   const { data, error } = await supabase
     .from('locations')
     .select('city')
@@ -13,5 +13,3 @@ async function getCitiesFromSettings() {
 
   return data.map((loc) => loc.city);
 }
-
-module.exports = { getCitiesFromSettings };

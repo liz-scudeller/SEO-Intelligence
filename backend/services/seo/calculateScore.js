@@ -1,12 +1,13 @@
-const weights = require('./scoreWeights');
+// src/utils/calculateScore.js
+import {scoreWeights} from './scoreWeights.js';
 
-function calculateScore({ metaTags, headings, structuredData, links }) {
+export function calculateScore({ metaTags, headings, structuredData, links }) {
   let score = 0;
   const checklist = [];
 
   if (!metaTags.title) checklist.push('Missing <title> tag');
   else {
-    score += weights.title;
+    score += scoreWeights.title;
     const len = metaTags.title.length;
     if (len < 30) checklist.push('<title> too short');
     else if (len > 70) checklist.push('<title> too long');
@@ -14,22 +15,22 @@ function calculateScore({ metaTags, headings, structuredData, links }) {
 
   if (!metaTags.description) checklist.push('Missing meta description');
   else {
-    score += weights.description;
+    score += scoreWeights.description;
     const len = metaTags.description.length;
     if (len < 120) checklist.push('Meta description too short');
     else if (len > 160) checklist.push('Meta description too long');
   }
 
-  if (metaTags.ogTitle || metaTags.ogDescription || metaTags.ogImage) score += weights.openGraph;
+  if (metaTags.ogTitle || metaTags.ogDescription || metaTags.ogImage) score += scoreWeights.openGraph;
   else checklist.push('Missing Open Graph tags');
 
-  if (metaTags.canonical) score += weights.canonical;
+  if (metaTags.canonical) score += scoreWeights.canonical;
   else checklist.push('Missing canonical link');
 
-  if (structuredData.length > 0) score += weights.structuredData;
+  if (structuredData.length > 0) score += scoreWeights.structuredData;
   else checklist.push('Missing structured data (JSON-LD)');
 
-  if (headings.h1.length > 0 && headings.h2.length > 0) score += weights.headings;
+  if (headings.h1.length > 0 && headings.h2.length > 0) score += scoreWeights.headings;
   else checklist.push('Missing <h1> or <h2>');
 
   if (headings.h1.length > 1) checklist.push('Multiple <h1> tags');
@@ -39,13 +40,12 @@ function calculateScore({ metaTags, headings, structuredData, links }) {
   const isOrderValid = headingTags.every((tag, idx, arr) => idx === 0 || tagWeight[tag] >= tagWeight[arr[idx - 1]]);
   if (!isOrderValid) checklist.push('Incorrect heading tag order');
 
-  if (links.internal.length > 0) score += weights.internalLinks;
+  if (links.internal.length > 0) score += scoreWeights.internalLinks;
   else checklist.push('No internal links found');
 
-  if (links.external.length > 0) score += weights.externalLinks;
+  if (links.external.length > 0) score += scoreWeights.externalLinks;
   else checklist.push('No external links found');
 
   return { score, checklist };
 }
 
-module.exports = calculateScore;

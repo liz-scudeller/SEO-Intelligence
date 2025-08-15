@@ -1,4 +1,4 @@
-function getHeadings($) {
+export function getHeadings($) {
   return {
     h1: $('h1').map((i, el) => $(el).text().trim()).get(),
     h2: $('h2').map((i, el) => $(el).text().trim()).get(),
@@ -6,4 +6,3 @@ function getHeadings($) {
   };
 }
 
-module.exports = getHeadings;

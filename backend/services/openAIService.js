@@ -1,32 +1,28 @@
-const { OpenAI } = require('openai');
-require('dotenv').config();
+import { OpenAI } from 'openai';
+import dotenv from 'dotenv';
+import { fetchSitemapUrls } from '../utils/sitemapReader.js';
+import SeoTask from '../models/seoTask.js';
+import { fetchUserServices } from '../services/fetchUserServices.js';
+import { fetchUserLocations } from '../services/fetchUserLocations.js';
 
-const { fetchSitemapUrls } = require('../utils/sitemapReader');
-const SeoTask = require('../models/seoTask');
-const supabase = require('../services/supabaseClient');
-const { fetchUserServices } = require('../services/fetchUserServices');
-const { fetchUserLocations } = require('../services/fetchUserLocations');
-
-const getUserServices = async (userId) => await fetchUserServices(userId);
-const getUserCities = async (userId) => await fetchUserLocations(userId);
-
+dotenv.config();
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_SECRET,
 });
 
+const getUserServices = async (userId) => await fetchUserServices(userId);
+const getUserCities = async (userId) => await fetchUserLocations(userId);
 
-
-
-// Sugestões gerais de SEO (create / improve)
-async function generateSeoSuggestions(filteredData, filterType = 'all', userId = null) {
+// Sugestões gerais de SEO
+export async function generateSeoSuggestions(filteredData, filterType = 'all', userId = null) {
   const doneTasks = await SeoTask.find({});
   const donePairs = doneTasks.map(t => `${t.keyword}|${t.action}`);
 
   const allowedCities = userId ? await getUserCities(userId) : [];
   const allowedServices = userId ? await getUserServices(userId) : [];
 
-    const newData = filteredData.filter(row => {
+  const newData = filteredData.filter(row => {
     const query = row.keys?.join(' ').toLowerCase().trim();
     const impressions = row.impressions || 0;
     const clicks = row.clicks || 0;
@@ -48,13 +44,10 @@ async function generateSeoSuggestions(filteredData, filterType = 'all', userId =
     return true;
   });
 
-
   const topRows = newData.sort((a, b) => b.impressions - a.impressions).slice(0, 5);
   const doneKeywords = doneTasks.map(t => t.keyword);
   const sitemapUrl = 'https://homeservicesolutions.ca/sitemap.xml';
   const existingPages = await fetchSitemapUrls(sitemapUrl);
-
-
 
   const prompt = buildPrompt(topRows, existingPages, doneKeywords);
 
@@ -184,7 +177,7 @@ function parseSuggestions(text) {
   }
 }
 
-async function regenerateSeoSuggestion(keyword, action) {
+export async function regenerateSeoSuggestion(keyword, action) {
   const prompt = `
 You're an expert SEO specialist.
 
@@ -220,17 +213,12 @@ Return in this JSON format:
   return JSON.parse(response.choices?.[0]?.message?.content || '{}');
 }
 
-// Blog post ideas
-async function generateBlogIdeas(filteredData, userId = null) {
+export async function generateBlogIdeas(filteredData, userId = null) {
   const existingBlogTasks = await SeoTask.find({ action: 'blog' });
   const usedKeywords = existingBlogTasks.map(t => t.keyword.toLowerCase());
 
   const allowedCities = userId ? await getUserCities(userId) : [];
   const allowedServices = userId ? await getUserServices(userId) : [];
-
-  console.log('✅ userId recebido:', userId);
-  console.log('🌆 allowedCities:', allowedCities);
-  console.log('🔧 allowedServices:', allowedServices);
 
   const normalize = str => str.toLowerCase().replace(/[^a-z0-9]/g, ' ');
 
@@ -303,11 +291,6 @@ Please suggest blog post ideas using this JSON format:
         );
       });
 
-      if (!match) {
-        console.warn(`⚠️ No matching base data for keyword: "${suggestion.keyword}"`);
-        console.warn(`🔍 Keywords in searchTerms:`, searchTerms.map(r => r.keys.join(' ')));
-      }
-
       const title = suggestion.blogTitle || suggestion.seoTitle;
       const keywords = suggestion.keywords?.join(', ') || '';
 
@@ -333,8 +316,7 @@ Please suggest blog post ideas using this JSON format:
   }
 }
 
-
-async function generateBlogContentFromPrompt(prompt) {
+export async function generateBlogContentFromPrompt(prompt) {
   const completion = await openai.chat.completions.create({
     model: 'gpt-4',
     messages: [{ role: 'user', content: prompt }],
@@ -344,16 +326,14 @@ async function generateBlogContentFromPrompt(prompt) {
   return completion.choices?.[0]?.message?.content || '';
 }
 
-async function generateContentPrompt({ title, keywords, userId }) {
+export async function generateContentPrompt({ title, keywords, userId }) {
   const cities = await getUserCities(userId);
 
   return `Create a blog post about '${title}'. Write it in an informative tone. Use transition words. Use active voice. Write over 1000 words. The blog post should be in a beginner’s guide style. Add title and subtitle for each section. It should have a minimum of 6 sections. Include the following keywords: ${keywords.join(', ')}. The meta description is already defined. At the end, add a final section listing the cities we serve: ${cities.join(', ')}. Also, generate a prompt for an image that fits the blog post.`;
 }
 
-async function generateLocalPageFromKeyword(keyword, url) {
-  const knownCities = [
-    'Kitchener', 'Waterloo', 'Cambridge', 'Guelph', 'Fergus', 'Ayr', 'Elmira', 'Baden', 'New Hamburg', 'Hamilton'
-  ];
+export async function generateLocalPageFromKeyword(keyword, url, userId) {
+  const knownCities = await getUserCities(userId);
 
   const location = knownCities.find(city =>
     keyword.toLowerCase().includes(city.toLowerCase())
@@ -361,7 +341,7 @@ async function generateLocalPageFromKeyword(keyword, url) {
 
   if (!location) return null;
 
-  const serviceSlug = url.split('/').pop(); // ex: 'gutter-guards'
+  const serviceSlug = url.split('/').pop();
   const slug = `${serviceSlug}-${location.toLowerCase().replace(/\s+/g, '-')}`;
   const serviceName = serviceSlug.replace(/-/g, ' ');
 
@@ -397,11 +377,98 @@ function capitalizeWords(str) {
 }
 
 
-module.exports = {
-  generateSeoSuggestions,
-  regenerateSeoSuggestion,
-  generateBlogIdeas,
-  generateBlogContentFromPrompt,
-  generateContentPrompt,
-  generateLocalPageFromKeyword,
-};
+
+// Prompt for Generating SEO-Optimized Local Service Content
+
+// You are an SEO and local copywriting expert for home improvement service companies.
+// Generate fully optimized content for the /service-area/[CITY-SLUG] page of a company called Home Service Solutions, which offers the following services:
+
+// Gutter Guard Sales & Installation
+
+// Eavestrough Installation
+
+// Soffits & Fascia Installation
+
+// Downspout Installation
+
+// Window Installation
+
+// Door Installation
+
+// Thermal & Acoustical Cellulose Insulation
+
+// Gutter Cleaning
+
+// The content must be written in English and follow exactly this structure, replacing [CITY] with the city name and [PROVINCE] with the province. Use real neighborhood names from the selected city to make the text location-specific.
+
+// H1:
+// Gutter Guard, Eavestrough, Windows, Doors & More in [CITY], [PROVINCE]
+
+// Meta Description:
+// Trusted gutter, window, and door installation services in [CITY]. Local experts offering gutter guards, eavestroughs, soffits, fascia, gutter cleaning, insulation, and more — with fast response and guaranteed quality.
+
+// Hero Section
+
+// Title: Your Local Exterior Improvement Experts in [CITY]
+
+// Subtitle: Serving homes and businesses across [CITY] with gutter, window, door, insulation, and cleaning services tailored to local needs.
+
+// CTA: Get a Free Quote (link to contact page)
+
+// Image: Real photo of a completed project in [CITY]
+
+// Section 1 – About Our Services in [CITY]
+
+// H2: Complete Exterior Solutions for [CITY] Residents
+
+// Text: Provide an overview of the company’s services, highlight that the team is local and understands the region’s climate challenges (rain, snow, seasonal debris), and emphasize the benefits of year-round home protection.
+
+// Section 2 – Our Services in [CITY] (each with a short description + internal link to service+city page)
+
+// Gutter Guard Sales & Installation in [CITY] – …
+
+// Eavestrough Installation in [CITY] – …
+
+// Soffits & Fascia Installation in [CITY] – …
+
+// Downspout Installation in [CITY] – …
+
+// Window Installation in [CITY] – …
+
+// Door Installation in [CITY] – …
+
+// Thermal & Acoustical Cellulose Insulation in [CITY] – …
+
+// Gutter Cleaning in [CITY] – …
+
+// Section 3 – Why Choose Us in [CITY]
+
+// Bullet points: Local expertise, fully insured team, quality guarantee, transparent pricing.
+
+// Section 4 – Local Testimonials
+
+// Three realistic testimonials with names and neighborhoods in [CITY].
+
+// Section 5 – Recent Projects in [CITY]
+
+// Three project examples with “before/after” mentions and neighborhood names.
+
+// Section 6 – Areas We Serve in [CITY]
+
+// List of actual neighborhoods and surrounding areas.
+
+// Section 7 – Final Call-to-Action
+
+// H2: Ready to Upgrade Your Home in [CITY]?
+
+// Short text encouraging the user to get in touch.
+
+// Button: Get Your Free Estimate Today.
+
+// Section 8 – FAQ
+
+// Create 4 to 6 relevant FAQs for home improvement services in this city, with clear, concise answers.
+
+// ➡ Tone: Professional, trustworthy, and friendly, focused on conversion and local SEO.
+// ➡ Use keywords naturally without keyword stuffing.
+// ➡ Ensure the text can be easily adapted to other cities by only changing the location-specific details.

@@ -1,4 +1,4 @@
-function getMetaTags($) {
+export function getMetaTags($) {
   return {
     title: $('title').text().trim() || '',
     description: $('meta[name="description"]').attr('content') || '',
@@ -8,5 +8,3 @@ function getMetaTags($) {
     canonical: $('link[rel="canonical"]').attr('href') || '',
   };
 }
-
-module.exports = getMetaTags;

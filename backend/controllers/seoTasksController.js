@@ -1,5 +1,6 @@
-const SeoTask = require('../models/seoTask');
-const { generateSeoContent } = require('../services/openAIService');
+import SeoTask from '../models/seoTask.js';
+import { generateSeoContent } from '../services/openAIService.js';
+
 
 exports.getSeoTasks = async (req, res) => {
   try {

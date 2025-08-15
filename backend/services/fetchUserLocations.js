@@ -1,6 +1,6 @@
-const supabase = require('./supabaseClient');
+import { supabase } from './supabaseClient.js';
 
-async function fetchUserLocations(userId) {
+export async function fetchUserLocations(userId) {
   const { data, error } = await supabase
     .from('locations')
     .select('slug')
@@ -14,5 +14,3 @@ async function fetchUserLocations(userId) {
 
   return data.map(l => l.slug);
 }
-
-module.exports = { fetchUserLocations };

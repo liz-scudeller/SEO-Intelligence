@@ -2,6 +2,8 @@ import React, { useEffect, useState, useRef } from 'react';
 import axios from 'axios';
 import { supabase } from '../../services/supabaseClient';
 
+const API_BASE = process.env.REACT_APP_API_URL || 'http://localhost:3000';
+
 export default function GSCResultsTable({ groupedData, getSeoScore, getRowColor, dimension, showOnlySuggestions, }) {
   const showURL = dimension.includes('page');
   const showKeyword = dimension.includes('query');
@@ -24,41 +26,46 @@ function shouldShowGenerateButton({ url, keyword }) {
 
 
   const handleGeneratePage = async (keyword, url, metrics) => {
-    setGeneratingKeyword(keyword);
-    try {
-      const { data: { user } } = await supabase.auth.getUser();
-      if (!user) return alert('❌ User not logged in');
+setGeneratingKeyword(keyword);
+try {
+  const { data: { user } } = await supabase.auth.getUser();
+  if (!user) {
+    alert('❌ User not logged in');
+    return;
+  }
 
-      const response = await fetch('/api/seo-tasks/generate-local-page', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ keyword, url, userId: user.id, metrics }),
-      });
+  const response = await fetch(`${API_BASE}/api/seo-tasks/generate-local-page`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ keyword, url, userId: user.id, metrics }),
+  });
 
-      const result = await response.json();
-      if (!result.success || !result.task || !result.task._id) {
-        alert('⚠️ Failed: ' + (result.error || 'Unknown error'));
-        return;
-      }
+  const result = await response.json();
+  if (!result.success || !result.task || !result.task._id) {
+    alert('⚠️ Failed: ' + (result.error || 'Unknown error'));
+    return;
+  }
 
-      const contentRes = await fetch('/api/seo-tasks/generate-local-page-content', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ taskId: result.task._id }),
-      });
+  const contentRes = await fetch(`${API_BASE}/api/seo-tasks/generate-local-page-content`, {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ taskId: result.task._id }),
+  });
 
-      const contentResult = await contentRes.json();
-      if (contentResult.success) {
-        alert('✅ Page content generated!');
-      } else {
-        alert('⚠️ Page created, but content generation failed: ' + (contentResult.error || 'Unknown error'));
-      }
-    } catch (err) {
-      console.error('❌ Error generating page:', err);
-      alert('❌ Error generating page');
-    } finally {
-      setGeneratingKeyword(null);
-    }
+  const contentResult = await contentRes.json();
+
+  if (contentResult.success) {
+    alert('✅ Page content generated!');
+  } else {
+    alert('⚠️ Page created, but content generation failed: ' + (contentResult.error || 'Unknown error'));
+  }
+} catch (err) {
+  console.error('❌ Error generating page:', err);
+  alert('❌ Error generating page');
+} finally {
+  setGeneratingKeyword(null);
+}
+
   };
 
   if (!groupedData || Object.keys(groupedData).length === 0) return null;

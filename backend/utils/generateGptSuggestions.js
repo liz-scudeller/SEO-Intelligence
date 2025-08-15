@@ -1,23 +1,25 @@
-const OpenAI = require('openai');
+import { OpenAI } from 'openai';
+import { getCitiesFromSettings } from '../utils/getCities.js';
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_SECRET,
 });
 
-const knownCities = ['ayr', 'baden', 'waterloo', 'kitchener', 'cambridge', 'guelph', 'fergus', 'elmira', 'new-hamburg', 'hamilton'];
+export async function generateTitleAndMetaWithGPT(page) {
+  const knownCities = await getCitiesFromSettings();
 
-function buildPrompt(page) {
-  const cleanHeadings = Object.values(page.headings || {})
-    .flat()
-    .map(h => h.replace(/\s+/g, ' ').trim())
-    .join('; ');
+  function buildPrompt(page) {
+    const cleanHeadings = Object.values(page.headings || {})
+      .flat()
+      .map(h => h.replace(/\s+/g, ' ').trim())
+      .join('; ');
 
-  const type = page.type || 'service';
-  const location = page.url?.split('/').filter(p => p).slice(-1)[0] || '';
-  const isLocal = knownCities.includes(location);
-  const hasEstimateBtn = /\/service-areas\//.test(page.url);
+    const type = page.type || 'service';
+    const location = page.url?.split('/').filter(p => p).slice(-1)[0] || '';
+    const isLocal = knownCities.includes(location);
+    const hasEstimateBtn = /\/service-areas\//.test(page.url);
 
-  return `
+    return `
 You're an expert SEO assistant.
 
 Page type: ${type}
@@ -41,9 +43,8 @@ Please suggest SEO metadata in this exact JSON format:
   "semanticScore": "0 to 10"
 }
 `;
-}
+  }
 
-async function generateTitleAndMetaWithGPT(page) {
   const prompt = buildPrompt(page);
 
   try {
@@ -66,13 +67,16 @@ async function generateTitleAndMetaWithGPT(page) {
       keywords: parsed.keywords || [],
       justification: parsed.justification || '',
       hasCallToAction: parsed.hasCallToAction === true,
-      semanticScore: Math.min(10, Math.max(0,
-        typeof parsed.semanticScore === 'number'
-          ? parsed.semanticScore
-          : parseFloat(parsed.semanticScore) || 0
-      )),
+      semanticScore: Math.min(
+        10,
+        Math.max(
+          0,
+          typeof parsed.semanticScore === 'number'
+            ? parsed.semanticScore
+            : parseFloat(parsed.semanticScore) || 0
+        )
+      ),
     };
-
   } catch (err) {
     console.error('⚠️ Failed to parse GPT metadata response:', err.message);
     return {
@@ -85,5 +89,3 @@ async function generateTitleAndMetaWithGPT(page) {
     };
   }
 }
-
-module.exports = { generateTitleAndMetaWithGPT };

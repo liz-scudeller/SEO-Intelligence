@@ -93,6 +93,7 @@ function getOpportunityLevel(task) {
     const total = items.filter(i => i.action === action).length;
     const pending = items.filter(i => i.action === action && i.status === 'pending').length;
     const done = items.filter(i => i.action === action && i.status === 'done').length;
+console.log('Fetched items:', items.map(i => i.action));
 
     return (
       <div key={action} className={`bg-${color}-50 rounded-xl p-4 shadow`}>

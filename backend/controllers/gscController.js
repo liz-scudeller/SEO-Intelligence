@@ -1,24 +1,22 @@
-const gscService = require('../services/gscService');
+import * as gscService from '../services/gscService.js';
 
-
-
-const authController = async (req, res) => {
-    const url = gscService.getAuthUrl();
-    console.log("Auth URL:", url);
-    res.redirect(url);
+export const authController = async (req, res) => {
+  const url = gscService.getAuthUrl();
+  console.log("Auth URL:", url);
+  res.redirect(url);
 };
 
-const setTokensController = async (req, res ) => {
-    try {
-        const {code} = req.query;
-        const tokens = await gscService.setTokens(code);
-        res.json({message:'Authenticated successfully', tokens});
-    } catch (error) {
-        res.status(500).json({error: error.message});
-    }
+export const setTokensController = async (req, res) => {
+  try {
+    const { code } = req.query;
+    const tokens = await gscService.setTokens(code);
+    res.json({ message: 'Authenticated successfully', tokens });
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
 };
 
-const getReportController = async (req, res) => {
+export const getReportController = async (req, res) => {
   try {
     const {
       siteUrl,
@@ -40,8 +38,6 @@ const getReportController = async (req, res) => {
       rowLimit: parseInt(rowLimit),
     });
 
-    
-    // Filtros opcionais pós-query
     let filtered = rows;
 
     if (pageFilter) {
@@ -57,13 +53,4 @@ const getReportController = async (req, res) => {
     console.error("GSC Report Error:", error);
     res.status(500).json({ error: error.message });
   }
-};
-
-
-
-
-module.exports = {
-    authController,
-    setTokensController,
-    getReportController,
 };
