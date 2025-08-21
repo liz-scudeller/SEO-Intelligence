@@ -64,6 +64,8 @@ async function syncAllPages({ sitemapRoots = [], wpBaseUrl = null }) {
     wpUrls.forEach(u => set.add(u));
   }
 
+
+
   const ops = [];
   for (const url of set) {
     ops.push({
@@ -76,3 +78,12 @@ async function syncAllPages({ sitemapRoots = [], wpBaseUrl = null }) {
         upsert: true,
       }
     });
+  }
+
+  // aqui provavelmente você quer executar algo como:
+  if (ops.length > 0) {
+    await ClassifiedPage.bulkWrite(ops);
+  }
+
+  return ops.length;
+}

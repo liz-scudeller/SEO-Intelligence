@@ -7,6 +7,60 @@ import axios from 'axios';
 
 const router = express.Router();
 
+// --- helper p/ pegar user do token (se tiver) ---
+async function getSupabaseUser(req) {
+  const auth = req.headers.authorization || '';
+  const token = auth.startsWith('Bearer ') ? auth.slice(7) : null;
+  if (!token) return null;
+  const { data, error } = await supabase.auth.getUser(token);
+  if (error || !data?.user) return null;
+  return data.user;
+}
+
+router.post('/create-task-from-page', async (req, res) => {
+  try {
+    const user = await getSupabaseUser(req);
+
+    const allowed = [
+      'keyword',
+      'seoTitle',
+      'metaDescription',
+      'slug',
+      'justification',
+      'impressions',
+      'clicks',
+      'ctr',
+      'position',
+      'semanticScore',
+      'hasCallToAction',
+      'contentPrompt',
+      'content',
+      'status',
+      'posted',
+    ];
+
+    const doc = {};
+    for (const k of allowed) if (k in req.body) doc[k] = req.body[k];
+
+    doc.action = 'improve';
+    if (!doc.status) doc.status = 'pending';
+    if (typeof doc.posted === 'undefined') doc.posted = false;
+    doc.userId = user?.id || req.body.userId || null;
+    doc.doneAt = null;
+
+    // evita duplicado por slug + improve pendente
+    if (doc.slug) {
+      const existing = await SeoTask.findOne({ slug: doc.slug, action: 'improve', status: 'pending' });
+      if (existing) return res.status(200).json(existing);
+    }
+
+    const created = await SeoTask.create(doc);
+    res.status(201).json(created);
+  } catch (err) {
+    console.error('❌ Create SeoTask error:', err);
+    res.status(500).json({ error: 'Failed to create task' });
+  }
+});
 
 
 // GET all tasks

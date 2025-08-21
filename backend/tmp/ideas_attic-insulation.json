@@ -13,6 +13,297 @@
   "locations": [
     {
       "location": {
+        "id": "7bb3b995-c05e-4f9d-8b56-ca06e3afe4c0",
+        "city": "Kitchener",
+        "province": "ON",
+        "slug": "kitchener"
+      },
+      "geoId": "1002312",
+      "ideas": [
+        {
+          "text": "attic insulation",
+          "avgMonthlySearches": "70",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2947415",
+          "highTopOfPageBidMicros": "10998956"
+        },
+        {
+          "text": "attic with insulation",
+          "avgMonthlySearches": "70",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2947415",
+          "highTopOfPageBidMicros": "10998956"
+        },
+        {
+          "text": "insulation attic insulation",
+          "avgMonthlySearches": "70",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2947415",
+          "highTopOfPageBidMicros": "10998956"
+        },
+        {
+          "text": "blown in insulation",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "3042572",
+          "highTopOfPageBidMicros": "7584551"
+        },
+        {
+          "text": "attic insulation services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "spray foam attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r49 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r38 insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic ceiling",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic foam insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "adding insulation to attic",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replace attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in cellulose insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic hatch",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to insulate attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal cost",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost per sq ft",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic spray foam insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
         "id": "fbc0a3e0-b41c-4a29-98af-283a5a47b3e9",
         "city": "Ayr",
         "province": "ON",
@@ -301,39 +592,3040 @@
           "highTopOfPageBidMicros": null
         }
       ]
+    },
+    {
+      "location": {
+        "id": "145ec83b-51ce-41c9-bfd5-794939d9f9f2",
+        "city": "Waterloo",
+        "province": "ON",
+        "slug": "waterloo"
+      },
+      "geoId": "1002464",
+      "ideas": [
+        {
+          "text": "attic insulation",
+          "avgMonthlySearches": "40",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2866672",
+          "highTopOfPageBidMicros": "9298710"
+        },
+        {
+          "text": "attic with insulation",
+          "avgMonthlySearches": "40",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2866672",
+          "highTopOfPageBidMicros": "9298710"
+        },
+        {
+          "text": "insulation attic insulation",
+          "avgMonthlySearches": "40",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2866672",
+          "highTopOfPageBidMicros": "9298710"
+        },
+        {
+          "text": "attic insulation services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2395222",
+          "highTopOfPageBidMicros": "6914332"
+        },
+        {
+          "text": "attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "383568",
+          "highTopOfPageBidMicros": "6613366"
+        },
+        {
+          "text": "insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "spray foam attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic ceiling",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic foam insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "adding insulation to attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replace attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in cellulose insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic hatch",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to insulate attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost per sq ft",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic spray foam insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cost to spray foam attic",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic foam insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "df559762-b350-4416-8083-8cb496df59f0",
+        "city": "Guelph",
+        "province": "ON",
+        "slug": "guelph"
+      },
+      "geoId": "1002283",
+      "ideas": [
+        {
+          "text": "attic insulation",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2465705",
+          "highTopOfPageBidMicros": "7913030"
+        },
+        {
+          "text": "attic with insulation",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2465705",
+          "highTopOfPageBidMicros": "7913030"
+        },
+        {
+          "text": "insulation attic insulation",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2465705",
+          "highTopOfPageBidMicros": "7913030"
+        },
+        {
+          "text": "attic insulation services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3357780",
+          "highTopOfPageBidMicros": "7702217"
+        },
+        {
+          "text": "blown in insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3269738",
+          "highTopOfPageBidMicros": "8183290"
+        },
+        {
+          "text": "insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "spray foam attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r38 insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic ceiling",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic foam insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "adding insulation to attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replace attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in cellulose insulation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic hatch",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to insulate attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost per sq ft",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic spray foam insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cost to spray foam attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic foam insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic door insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "c644caac-6624-4927-ad84-93eea2e67efb",
+        "city": "Fergus",
+        "province": "ON",
+        "slug": "fergus"
+      },
+      "geoId": "1002264",
+      "ideas": [
+        {
+          "text": "attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "5487255",
+          "highTopOfPageBidMicros": "13962924"
+        },
+        {
+          "text": "adding insulation to attic",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in cellulose insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic hatch",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost per sq ft",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cost to spray foam attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic foam insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic door insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "types of attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in wall insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "radiant barrier attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in fiberglass insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost per square foot",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation home depot",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r60 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "spray foam attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home depot blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic door installation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic and crawl space insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic spray insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation price",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic crawl space insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "zonolite insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulators near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic floor insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "8f70b054-48c7-41b5-abac-8b7b188a84a8",
+        "city": "Elmira",
+        "province": "ON",
+        "slug": "elmira"
+      },
+      "geoId": "1002253",
+      "ideas": [
+        {
+          "text": "attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "spray foam attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "adding insulation to attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replace attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in cellulose insulation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic hatch",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to insulate attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cost to spray foam attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic foam insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "types of attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in wall insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic foil",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in fiberglass insulation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation home depot",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r60 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic inspection cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic sealing",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "diy attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home depot blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r 60 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulated attic access door",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic spray insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cellulose attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation price",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fiberglass attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "5b5a7c49-26bf-49a2-aa53-e9d9df4451fd",
+        "city": "Baden",
+        "province": "ON",
+        "slug": "baden"
+      },
+      "geoId": "1002171",
+      "ideas": [
+        {
+          "text": "attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "spray foam attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r38 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "adding insulation to attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic hatch",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "types of attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in wall insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in fiberglass insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "average cost to insulate attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation home depot",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r60 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation attic near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "diy blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "diy attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home depot blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation price",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "zonolite insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation inspection",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "rockwool attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic hatch insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "price for blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "rockwool blown insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r49 batt insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "spray insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "atticat blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "atticat",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "606280c2-f2d0-46ce-b3bf-961d7c7f7a5a",
+        "city": "New Hamburg",
+        "province": "ON",
+        "slug": "new-hamburg"
+      },
+      "geoId": "1002359",
+      "ideas": [
+        {
+          "text": "attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "spray foam attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r38 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic hatch",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "types of attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "average cost to insulate attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation home depot",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r60 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation attic near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "diy blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "diy attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home depot blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation price",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation inspection",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "types of blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "rockwool attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic hatch insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in cellulose insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "price for blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r49 batt insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "spray insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "atticat blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "atticat",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic rafter insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "mineral wool blown insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "a086dbab-6b44-418e-9f78-3ebc81a93d3a",
+        "city": "Hamilton",
+        "province": "ON",
+        "slug": "hamilton"
+      },
+      "geoId": "1002287",
+      "ideas": [
+        {
+          "text": "attic insulation",
+          "avgMonthlySearches": "110",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2040828",
+          "highTopOfPageBidMicros": "6260036"
+        },
+        {
+          "text": "attic with insulation",
+          "avgMonthlySearches": "110",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2040828",
+          "highTopOfPageBidMicros": "6260036"
+        },
+        {
+          "text": "insulation attic insulation",
+          "avgMonthlySearches": "110",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2040828",
+          "highTopOfPageBidMicros": "6260036"
+        },
+        {
+          "text": "hamilton attic insulation",
+          "avgMonthlySearches": "70",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2947423",
+          "highTopOfPageBidMicros": "12326694"
+        },
+        {
+          "text": "blown in insulation",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2181397",
+          "highTopOfPageBidMicros": "5468868"
+        },
+        {
+          "text": "attic hatch",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "443664",
+          "highTopOfPageBidMicros": "1624327"
+        },
+        {
+          "text": "attic baffle",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "hatch attic",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "443664",
+          "highTopOfPageBidMicros": "1624327"
+        },
+        {
+          "text": "attic insulation cost",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1285718",
+          "highTopOfPageBidMicros": "3407604"
+        },
+        {
+          "text": "attic insulation price",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1285718",
+          "highTopOfPageBidMicros": "3407604"
+        },
+        {
+          "text": "attic insulation services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "1514087",
+          "highTopOfPageBidMicros": "4144100"
+        },
+        {
+          "text": "insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "4807210",
+          "highTopOfPageBidMicros": "13996187"
+        },
+        {
+          "text": "attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "1525347",
+          "highTopOfPageBidMicros": "7417409"
+        },
+        {
+          "text": "attic insulation companies",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2535848",
+          "highTopOfPageBidMicros": "6618984"
+        },
+        {
+          "text": "spray foam attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r49 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r38 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic ceiling",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1129861",
+          "highTopOfPageBidMicros": "3319505"
+        },
+        {
+          "text": "attic insulation removal near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic foam insulation",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "adding insulation to attic",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1519285",
+          "highTopOfPageBidMicros": "3909629"
+        },
+        {
+          "text": "attic insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2535848",
+          "highTopOfPageBidMicros": "6618984"
+        },
+        {
+          "text": "blown in attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replace attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "c03273be-e73f-46f6-b576-c420e2faf533",
+        "city": "Cambridge",
+        "province": "ON",
+        "slug": "cambridge"
+      },
+      "geoId": "1002200",
+      "ideas": [
+        {
+          "text": "attic insulation",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3341086",
+          "highTopOfPageBidMicros": "16571679"
+        },
+        {
+          "text": "attic with insulation",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3341086",
+          "highTopOfPageBidMicros": "16571679"
+        },
+        {
+          "text": "insulation attic insulation",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3341086",
+          "highTopOfPageBidMicros": "16571679"
+        },
+        {
+          "text": "attic insulation services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6143009",
+          "highTopOfPageBidMicros": "13479445"
+        },
+        {
+          "text": "blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3121974",
+          "highTopOfPageBidMicros": "7304869"
+        },
+        {
+          "text": "attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1966235",
+          "highTopOfPageBidMicros": "4837812"
+        },
+        {
+          "text": "blown in insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "spray foam attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r49 insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r38 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic ceiling",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic foam insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "adding insulation to attic",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replace attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in cellulose insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic hatch",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to insulate attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost per sq ft",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cost to spray foam attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic foam insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "cfca31b3-2182-4582-9944-289ea038cb2e",
+        "city": "Paris",
+        "province": "ON",
+        "slug": "paris"
+      },
+      "geoId": "1002378",
+      "ideas": [
+        {
+          "text": "attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "spray foam attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r49 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r38 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replace attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in cellulose insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic hatch",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic door insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "types of attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in wall insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "average cost to insulate attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic specialist near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "r60 insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cost to add insulation to attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "diy blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "diy attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home depot blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "garage attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "cellulose attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "adding attic insulation over existing",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation price",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replace insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic floor insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "23b01ec8-20d5-4a52-a80d-fa545f22df80",
+        "city": "Brantford",
+        "province": "ON",
+        "slug": "brantford"
+      },
+      "geoId": "1002192",
+      "ideas": [
+        {
+          "text": "attic insulation",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2218320",
+          "highTopOfPageBidMicros": "4525941"
+        },
+        {
+          "text": "attic with insulation",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2218320",
+          "highTopOfPageBidMicros": "4525941"
+        },
+        {
+          "text": "insulation attic insulation",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2218320",
+          "highTopOfPageBidMicros": "4525941"
+        },
+        {
+          "text": "attic insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "415301",
+          "highTopOfPageBidMicros": "8153503"
+        },
+        {
+          "text": "attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "roof insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation installers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation contractors near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "spray foam attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation removal cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best insulation for attic ceiling",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in attic insulation cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best attic insulation companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic foam insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "adding insulation to attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "replace attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in cellulose insulation",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic hatch",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to insulate attic",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "insulation removal cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation cost per sq ft",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic door insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "attic restoration",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "types of attic insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in insulation contractors",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "blown in wall insulation",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
     }
   ],
   "topOverall": [
     {
       "text": "attic insulation",
-      "avgMonthlySearches": "10",
+      "avgMonthlySearches": "70",
       "competition": "HIGH",
+      "lowTopOfPageBidMicros": "2947415",
+      "highTopOfPageBidMicros": "10998956"
+    },
+    {
+      "text": "attic with insulation",
+      "avgMonthlySearches": "70",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "2947415",
+      "highTopOfPageBidMicros": "10998956"
+    },
+    {
+      "text": "insulation attic insulation",
+      "avgMonthlySearches": "70",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "2947415",
+      "highTopOfPageBidMicros": "10998956"
+    },
+    {
+      "text": "hamilton attic insulation",
+      "avgMonthlySearches": "70",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "2947423",
+      "highTopOfPageBidMicros": "12326694"
+    },
+    {
+      "text": "attic baffle",
+      "avgMonthlySearches": "30",
+      "competition": "MEDIUM",
       "lowTopOfPageBidMicros": null,
       "highTopOfPageBidMicros": null
     },
     {
+      "text": "hatch attic",
+      "avgMonthlySearches": "30",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "443664",
+      "highTopOfPageBidMicros": "1624327"
+    },
+    {
       "text": "blown in insulation",
+      "avgMonthlySearches": "20",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "3042572",
+      "highTopOfPageBidMicros": "7584551"
+    },
+    {
+      "text": "attic insulation services",
       "avgMonthlySearches": "10",
       "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "attic insulation near me",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
       "lowTopOfPageBidMicros": null,
       "highTopOfPageBidMicros": null
     },
     {
       "text": "attic insulation cost",
       "avgMonthlySearches": "10",
-      "competition": null,
+      "competition": "LOW",
       "lowTopOfPageBidMicros": null,
       "highTopOfPageBidMicros": null
     },
     {
       "text": "blown in insulation near me",
       "avgMonthlySearches": "10",
-      "competition": null,
+      "competition": "LOW",
       "lowTopOfPageBidMicros": null,
       "highTopOfPageBidMicros": null
     },
     {
       "text": "blown in insulation cost",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "insulation removal",
+      "avgMonthlySearches": "10",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "attic insulation removal",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "attic insulation companies near me",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "attic insulation installers",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "roof insulation cost",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "insulation removal near me",
       "avgMonthlySearches": "10",
       "competition": null,
       "lowTopOfPageBidMicros": null,
@@ -347,9 +3639,44 @@
       "highTopOfPageBidMicros": null
     },
     {
+      "text": "attic insulation contractors near me",
+      "avgMonthlySearches": "10",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "attic insulation installers near me",
+      "avgMonthlySearches": "10",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "blown in insulation contractors near me",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
       "text": "blown in attic insulation",
       "avgMonthlySearches": "10",
-      "competition": null,
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "attic insulation companies",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "spray foam attic insulation",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
       "lowTopOfPageBidMicros": null,
       "highTopOfPageBidMicros": null
     },
@@ -361,14 +3688,119 @@
       "highTopOfPageBidMicros": null
     },
     {
-      "text": "blown in attic insulation cost",
+      "text": "attic insulation removal cost",
       "avgMonthlySearches": "10",
       "competition": null,
       "lowTopOfPageBidMicros": null,
       "highTopOfPageBidMicros": null
     },
     {
+      "text": "r38 insulation",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "best insulation for attic ceiling",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "blown in attic insulation cost",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "blown in insulation companies near me",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "best attic insulation companies near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "attic foam insulation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "adding insulation to attic",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "attic insulation contractors",
+      "avgMonthlySearches": "10",
+      "competition": "LOW",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "blown in attic insulation near me",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "replace attic insulation",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
       "text": "blown in cellulose insulation",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "attic hatch",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "best way to insulate attic",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "insulation removal cost",
+      "avgMonthlySearches": "10",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "blown in insulation cost per sq ft",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "attic spray foam insulation cost",
       "avgMonthlySearches": "10",
       "competition": null,
       "lowTopOfPageBidMicros": null,
@@ -488,97 +3920,6 @@
     },
     {
       "text": "rockwool blown insulation",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "roof and attic insulation",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "upgrade attic insulation",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "diy attic spray foam insulation",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "mineral wool blown insulation",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "soffit insulation baffle",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "spray foam for roof insulation",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "radiant barrier attic insulation",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "raft r mate",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "price to blow insulation in attic",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "collapsible attic ladder",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "vacuuming attic insulation",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "insulation baffle",
-      "avgMonthlySearches": "10",
-      "competition": null,
-      "lowTopOfPageBidMicros": null,
-      "highTopOfPageBidMicros": null
-    },
-    {
-      "text": "old attic insulation",
       "avgMonthlySearches": "10",
       "competition": null,
       "lowTopOfPageBidMicros": null,

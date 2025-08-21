@@ -2,6 +2,10 @@ import { useEffect, useState } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import axios from 'axios';
 
+import { supabase } from '../services/supabaseClient';
+
+const API = process.env.REACT_APP_API_URL || 'http://localhost:3000';
+
 export default function SeoDetailPage() {
   const { id } = useParams();
   const navigate = useNavigate();
@@ -10,6 +14,8 @@ export default function SeoDetailPage() {
   const [loadingRecs, setLoadingRecs] = useState(false);
   const [message, setMessage] = useState('');
 
+  const [taskLoading, setTaskLoading] = useState(false);
+  const [taskMsg, setTaskMsg] = useState('');
 
   useEffect(() => {
     fetchReport();
@@ -21,14 +27,96 @@ export default function SeoDetailPage() {
   }
 }, [report]);
 
-  const fetchReport = async () => {
-    try {
-      const res = await axios.get(`http://localhost:3000/seo-report/${id}/details`);
-      setReport(res.data);
-    } catch (err) {
-      console.error('Error fetching details:', err.message);
+const fetchReport = async () => {
+  try {
+    const res = await axios.get(`${API}/seo-report/${id}/details`);
+    setReport(res.data);
+  } catch (err) {
+    console.error('Error fetching details:', err.message);
+  }
+};
+
+function getSafeSlug(report) {
+  if (report?.slug) return String(report.slug).trim();
+  try {
+    if (report?.url) {
+      const path = new URL(report.url).pathname;         // "/services/gutter-guards-hamilton/"
+      const last = path.replace(/\/+$/, '').split('/').filter(Boolean).pop(); // "gutter-guards-hamilton"
+      return (last || '').trim();
     }
-  };
+  } catch (_) {}
+  return '';
+}
+
+function buildJustificationFromReport(report, maxLen = 1500) {
+  const issues = Array.isArray(report.seoChecklist) ? report.seoChecklist.filter(Boolean) : [];
+  if (issues.length === 0) return 'Improve on-page SEO: no detailed checklist was available.';
+  const bullets = issues.map(i => `• ${i}`).join('\n');
+  // corta com segurança se passar do limite
+  return bullets.length > maxLen ? bullets.slice(0, maxLen - 3) + '...' : bullets;
+}
+
+async function handleCreateTask(report, setTaskLoading, setTaskMsg) {
+  if (!report) return;
+  try {
+    setTaskLoading(true);
+    setTaskMsg('');
+
+    const {
+      data: { session },
+      error,
+    } = await supabase.auth.getSession();
+    if (error || !session?.access_token) throw new Error('Not authenticated');
+
+    const justification = buildJustificationFromReport(report);
+const slug = getSafeSlug(report);    
+const safeTitle = report?.metaTags?.title || '';
+const safeDesc  = report?.metaTags?.description || '';
+
+const payload = {
+  action: 'improve',
+  status: 'pending',
+  keyword: report.slug || '',
+  seoTitle: safeTitle,
+  metaDescription: safeDesc,
+  slug,
+  justification: buildJustificationFromReport(report), // <-- lista de problemas do details page
+  impressions: report.impressions ?? 0,
+  clicks: report.clicks ?? 0,
+  ctr: report.ctr ?? 0,
+  position: typeof report.position === 'number' ? report.position : null,
+  semanticScore: null,
+  hasCallToAction: false,
+  contentPrompt: `
+Improve the SEO of this page using the issues below.
+
+URL: ${report.url}
+Current Title: ${safeTitle || '(none)'}
+Current Description: ${safeDesc || '(none)'}
+
+Issues:
+${buildJustificationFromReport(report)}
+
+Deliver: new <title>, meta description, heading outline (H1/H2/H3), internal link ideas, schema suggestions, and a short CTA.
+`.trim(),
+  content: '',
+  posted: false,
+};
+
+    await axios.post(
+      `${API}/api/seo-tasks/create-task-from-page`,
+      payload,
+      { headers: { Authorization: `Bearer ${session.access_token}` } }
+    );
+
+    setTaskMsg('Task (improve) created with SEO issues in justification.');
+  } catch (e) {
+    console.error('Failed to create task:', e);
+    setTaskMsg('Failed to create task.');
+  } finally {
+    setTaskLoading(false);
+  }
+}
 
   const generateRecommendations = async (regenerate = false) => {
   setLoadingRecs(true);
@@ -109,6 +197,16 @@ function getSuggestionForIssue(issue) {
         </div>
 
 
+<div className="flex flex-col gap-2 items-start">
+  <button
+    onClick={() => handleCreateTask(report, setTaskLoading, setTaskMsg)}
+    disabled={taskLoading}
+    className="px-3 py-2 rounded-md border text-sm font-medium hover:bg-gray-50 disabled:opacity-60"
+  >
+    {taskLoading ? 'Generating…' : 'Generate Task'}
+  </button>
+  {taskMsg && <span className="text-xs text-gray-600">{taskMsg}</span>}
+</div>
 
       </div>
 

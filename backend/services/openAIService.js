@@ -186,8 +186,8 @@ Task:
 - Action: "${action}"
 
 Please generate:
-- SEO Title
-- Meta Description
+- SEO Title, max 60 characters
+- Meta Description, max 160 characters
 - A short SEO-friendly paragraph
 - A short justification for why this change is important
 - Semantic score (from 0 to 10)
@@ -352,9 +352,9 @@ export async function generateLocalPageFromKeyword(keyword, url, userId) {
 Generate an SEO-optimized local service page for a home services company.
 - Service: ${serviceName}
 - Location: ${location}
-- Title: ${seoTitle}
+- Title: ${seoTitle} ,60 characters or less.
 - Slug: ${slug}
-- Meta Description: ${metaDescription}
+- Meta Description: ${metaDescription}, 160 characters or less.
 - Use keywords like: "${keyword}"
 - Structure: Introduction, Benefits, Why Choose Us, FAQs, Call to Action.
 - Tone: Trustworthy, professional, local expert.
@@ -377,26 +377,18 @@ function capitalizeWords(str) {
 }
 
 
-
 // Prompt for Generating SEO-Optimized Local Service Content
 
 // You are an SEO and local copywriting expert for home improvement service companies.
 // Generate fully optimized content for the /service-area/[CITY-SLUG] page of a company called Home Service Solutions, which offers the following services:
 
 // Gutter Guard Sales & Installation
-
 // Eavestrough Installation
-
 // Soffits & Fascia Installation
-
 // Downspout Installation
-
 // Window Installation
-
 // Door Installation
-
 // Thermal & Acoustical Cellulose Insulation
-
 // Gutter Cleaning
 
 // The content must be written in English and follow exactly this structure, replacing [CITY] with the city name and [PROVINCE] with the province. Use real neighborhood names from the selected city to make the text location-specific.
@@ -408,66 +400,59 @@ function capitalizeWords(str) {
 // Trusted gutter, window, and door installation services in [CITY]. Local experts offering gutter guards, eavestroughs, soffits, fascia, gutter cleaning, insulation, and more — with fast response and guaranteed quality.
 
 // Hero Section
-
 // Title: Your Local Exterior Improvement Experts in [CITY]
-
 // Subtitle: Serving homes and businesses across [CITY] with gutter, window, door, insulation, and cleaning services tailored to local needs.
-
 // CTA: Get a Free Quote (link to contact page)
-
 // Image: Real photo of a completed project in [CITY]
 
 // Section 1 – About Our Services in [CITY]
-
 // H2: Complete Exterior Solutions for [CITY] Residents
-
 // Text: Provide an overview of the company’s services, highlight that the team is local and understands the region’s climate challenges (rain, snow, seasonal debris), and emphasize the benefits of year-round home protection.
 
 // Section 2 – Our Services in [CITY] (each with a short description + internal link to service+city page)
-
 // Gutter Guard Sales & Installation in [CITY] – …
-
 // Eavestrough Installation in [CITY] – …
-
 // Soffits & Fascia Installation in [CITY] – …
-
 // Downspout Installation in [CITY] – …
-
 // Window Installation in [CITY] – …
-
 // Door Installation in [CITY] – …
-
 // Thermal & Acoustical Cellulose Insulation in [CITY] – …
-
 // Gutter Cleaning in [CITY] – …
 
 // Section 3 – Why Choose Us in [CITY]
-
 // Bullet points: Local expertise, fully insured team, quality guarantee, transparent pricing.
 
 // Section 4 – Local Testimonials
-
 // Three realistic testimonials with names and neighborhoods in [CITY].
 
 // Section 5 – Recent Projects in [CITY]
-
 // Three project examples with “before/after” mentions and neighborhood names.
 
 // Section 6 – Areas We Serve in [CITY]
-
 // List of actual neighborhoods and surrounding areas.
 
 // Section 7 – Final Call-to-Action
-
 // H2: Ready to Upgrade Your Home in [CITY]?
-
 // Short text encouraging the user to get in touch.
-
 // Button: Get Your Free Estimate Today.
 
 // Section 8 – FAQ
-
-// Create 4 to 6 relevant FAQs for home improvement services in this city, with clear, concise answers.
+// IMPORTANT: The FAQ must be based on *real questions that people in [CITY] and nearby areas actually ask online* about the services we offer (gutter guard, eavestroughs, soffits, fascia, windows, doors, insulation, gutter cleaning).
+// Research real search queries, forum discussions, and community questions, but rephrase them professionally so they fit naturally on a company service page.
+// DO NOT include questions that are phrased as requests for recommendations (e.g., "Who can you recommend…", "Can you suggest…").
+// DO NOT use wording that sounds like a forum post or informal chat.
+// Focus only on questions that:
+//   - Address common problems, concerns, or misconceptions about the service
+//   - Discuss maintenance frequency, seasonal challenges, installation benefits, costs, materials, lifespan, and performance in the local climate
+//   - Match the way potential customers would search for solutions online
+//   - Can be answered with valuable, educational, and reassuring information
+//   - Relate specifically to the housing styles, weather, and needs of [CITY]
+// Write the questions in a professional, clear, and SEO-friendly tone suitable for a company website.
+// Provide clear, concise answers that:
+//   - Educate the reader and provide actionable information
+//   - Naturally incorporate relevant keywords without stuffing
+//   - Position Home Service Solutions as the best and most reliable choice in [CITY]
+// Provide 4–6 FAQs per city.
 
 // ➡ Tone: Professional, trustworthy, and friendly, focused on conversion and local SEO.
 // ➡ Use keywords naturally without keyword stuffing.

@@ -24,29 +24,29 @@
           "text": "window cleaning",
           "avgMonthlySearches": "50",
           "competition": "MEDIUM",
-          "lowTopOfPageBidMicros": "3098896",
-          "highTopOfPageBidMicros": "17677583"
+          "lowTopOfPageBidMicros": "3122430",
+          "highTopOfPageBidMicros": "17811835"
         },
         {
           "text": "window cleaning near me",
           "avgMonthlySearches": "50",
           "competition": "HIGH",
-          "lowTopOfPageBidMicros": "7170062",
-          "highTopOfPageBidMicros": "16487940"
+          "lowTopOfPageBidMicros": "7224515",
+          "highTopOfPageBidMicros": "16613157"
         },
         {
           "text": "window washers near me",
           "avgMonthlySearches": "50",
           "competition": "HIGH",
-          "lowTopOfPageBidMicros": "7170062",
-          "highTopOfPageBidMicros": "16487940"
+          "lowTopOfPageBidMicros": "7224515",
+          "highTopOfPageBidMicros": "16613157"
         },
         {
           "text": "glass cleaners near me",
           "avgMonthlySearches": "50",
           "competition": "HIGH",
-          "lowTopOfPageBidMicros": "7170062",
-          "highTopOfPageBidMicros": "16487940"
+          "lowTopOfPageBidMicros": "7224515",
+          "highTopOfPageBidMicros": "16613157"
         },
         {
           "text": "window cleaning services near me",
@@ -115,8 +115,8 @@
           "text": "window washing",
           "avgMonthlySearches": "10",
           "competition": "HIGH",
-          "lowTopOfPageBidMicros": "6161642",
-          "highTopOfPageBidMicros": "7837175"
+          "lowTopOfPageBidMicros": "6208437",
+          "highTopOfPageBidMicros": "7896695"
         },
         {
           "text": "window cleaning services",
@@ -171,15 +171,15 @@
           "text": "windex outdoor window cleaner",
           "avgMonthlySearches": "10",
           "competition": "HIGH",
-          "lowTopOfPageBidMicros": "567430",
-          "highTopOfPageBidMicros": "1237689"
+          "lowTopOfPageBidMicros": "571740",
+          "highTopOfPageBidMicros": "1247089"
         },
         {
           "text": "men in kilts window cleaning",
           "avgMonthlySearches": "10",
           "competition": "MEDIUM",
-          "lowTopOfPageBidMicros": "3485347",
-          "highTopOfPageBidMicros": "7533899"
+          "lowTopOfPageBidMicros": "3511816",
+          "highTopOfPageBidMicros": "7591115"
         },
         {
           "text": "local window cleaners",
@@ -199,15 +199,15 @@
           "text": "clearview window cleaning",
           "avgMonthlySearches": "10",
           "competition": "MEDIUM",
-          "lowTopOfPageBidMicros": "2483371",
-          "highTopOfPageBidMicros": "7166406"
+          "lowTopOfPageBidMicros": "2502231",
+          "highTopOfPageBidMicros": "7220831"
         },
         {
           "text": "window cleaning business",
           "avgMonthlySearches": "10",
           "competition": "HIGH",
-          "lowTopOfPageBidMicros": "5330164",
-          "highTopOfPageBidMicros": "21421309"
+          "lowTopOfPageBidMicros": "5370644",
+          "highTopOfPageBidMicros": "21583992"
         },
         {
           "text": "drapery cleaning near me",
@@ -227,8 +227,8 @@
           "text": "exterior window cleaning",
           "avgMonthlySearches": "10",
           "competition": "HIGH",
-          "lowTopOfPageBidMicros": "6178738",
-          "highTopOfPageBidMicros": "8859375"
+          "lowTopOfPageBidMicros": "6225662",
+          "highTopOfPageBidMicros": "8926658"
         },
         {
           "text": "window cleaning company",
@@ -241,8 +241,8 @@
           "text": "best way to clean windows",
           "avgMonthlySearches": "10",
           "competition": "HIGH",
-          "lowTopOfPageBidMicros": "110582",
-          "highTopOfPageBidMicros": "3019530"
+          "lowTopOfPageBidMicros": "111422",
+          "highTopOfPageBidMicros": "3042461"
         },
         {
           "text": "window cleaning company near me",
@@ -301,6 +301,3207 @@
           "highTopOfPageBidMicros": null
         }
       ]
+    },
+    {
+      "location": {
+        "id": "fbc0a3e0-b41c-4a29-98af-283a5a47b3e9",
+        "city": "Ayr",
+        "province": "ON",
+        "slug": "ayr"
+      },
+      "geoId": "1002170",
+      "ideas": [
+        {
+          "text": "window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sprayway glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "unger window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "men in kilts window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "local window cleaners",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "clearview window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "invisible glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning business",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to clean windows",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "high rise window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning prices",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fireplace glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outside window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing business",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning cost",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "automatic window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "ettore window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window screen cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window steam cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window washing",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "local window washers",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "crl glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "145ec83b-51ce-41c9-bfd5-794939d9f9f2",
+        "city": "Waterloo",
+        "province": "ON",
+        "slug": "waterloo"
+      },
+      "geoId": "1002464",
+      "ideas": [
+        {
+          "text": "window cleaning",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "6887496",
+          "highTopOfPageBidMicros": "22487948"
+        },
+        {
+          "text": "window cleaning near me",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6214545",
+          "highTopOfPageBidMicros": "22389625"
+        },
+        {
+          "text": "window washers near me",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6214545",
+          "highTopOfPageBidMicros": "22389625"
+        },
+        {
+          "text": "glass cleaners near me",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6214545",
+          "highTopOfPageBidMicros": "22389625"
+        },
+        {
+          "text": "professional window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sprayway glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "shine window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "unger window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fish window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "men in kilts window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3314907",
+          "highTopOfPageBidMicros": "7805139"
+        },
+        {
+          "text": "local window cleaners",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "clearview window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2432102",
+          "highTopOfPageBidMicros": "7273814"
+        },
+        {
+          "text": "invisible glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning business",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "drapery cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "telescopic window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to clean windows",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "55458",
+          "highTopOfPageBidMicros": "2746145"
+        },
+        {
+          "text": "window cleaning company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "high rise window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaners near me prices",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning prices",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window and gutter cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers near me residential",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fireplace glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "df559762-b350-4416-8083-8cb496df59f0",
+        "city": "Guelph",
+        "province": "ON",
+        "slug": "guelph"
+      },
+      "geoId": "1002283",
+      "ideas": [
+        {
+          "text": "window cleaning near me",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6206403",
+          "highTopOfPageBidMicros": "15744312"
+        },
+        {
+          "text": "window washers near me",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6206403",
+          "highTopOfPageBidMicros": "15744312"
+        },
+        {
+          "text": "glass cleaners near me",
+          "avgMonthlySearches": "50",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6206403",
+          "highTopOfPageBidMicros": "15744312"
+        },
+        {
+          "text": "window cleaning services near me",
+          "avgMonthlySearches": "40",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning near me",
+          "avgMonthlySearches": "40",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services near me",
+          "avgMonthlySearches": "40",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning near me",
+          "avgMonthlySearches": "40",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window washers near me",
+          "avgMonthlySearches": "40",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1049767",
+          "highTopOfPageBidMicros": "15192863"
+        },
+        {
+          "text": "professional window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sprayway glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "3543060",
+          "highTopOfPageBidMicros": "26305673"
+        },
+        {
+          "text": "window cleaning services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "shine window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "unger window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fish window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaners in my area",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "men in kilts window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "6244584",
+          "highTopOfPageBidMicros": "11264236"
+        },
+        {
+          "text": "local window cleaners",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "clearview window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "invisible glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning business",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "drapery cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "telescopic window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "708172",
+          "highTopOfPageBidMicros": "13549064"
+        },
+        {
+          "text": "window cleaning company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to clean windows",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "13864",
+          "highTopOfPageBidMicros": "3041239"
+        },
+        {
+          "text": "window cleaning company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "high rise window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaners near me prices",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning prices",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window and gutter cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fireplace glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "c644caac-6624-4927-ad84-93eea2e67efb",
+        "city": "Fergus",
+        "province": "ON",
+        "slug": "fergus"
+      },
+      "geoId": "1002264",
+      "ideas": [
+        {
+          "text": "window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sprayway glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "shine window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "unger window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "men in kilts window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "local window cleaners",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "clearview window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "invisible glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning business",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "telescopic window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sunshine window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to clean windows",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "high rise window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning prices",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fireplace glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning prices near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outside window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers residential",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing business",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "8f70b054-48c7-41b5-abac-8b7b188a84a8",
+        "city": "Elmira",
+        "province": "ON",
+        "slug": "elmira"
+      },
+      "geoId": "1002253",
+      "ideas": [
+        {
+          "text": "window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sprayway glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "unger window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "men in kilts window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "clearview window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "invisible glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning business",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to clean windows",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "high rise window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning prices",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fireplace glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outside window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers residential",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing business",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "automatic window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "zep glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "5b5a7c49-26bf-49a2-aa53-e9d9df4451fd",
+        "city": "Baden",
+        "province": "ON",
+        "slug": "baden"
+      },
+      "geoId": "1002171",
+      "ideas": [
+        {
+          "text": "window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sprayway glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "men in kilts window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "clearview window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "invisible glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning business",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to clean windows",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaners near me prices",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fireplace glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outside window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers residential",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing business",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "automatic window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "zep glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window screen cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window steam cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window cleaners near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "removing hard water stains from glass",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "3m glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window washing",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "oven glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "drone window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "vinyl window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "606280c2-f2d0-46ce-b3bf-961d7c7f7a5a",
+        "city": "New Hamburg",
+        "province": "ON",
+        "slug": "new-hamburg"
+      },
+      "geoId": "1002359",
+      "ideas": [
+        {
+          "text": "window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2632402",
+          "highTopOfPageBidMicros": "7295225"
+        },
+        {
+          "text": "window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2632402",
+          "highTopOfPageBidMicros": "7295225"
+        },
+        {
+          "text": "sprayway glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "men in kilts window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "clearview window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "invisible glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "drapery cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to clean windows",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "high rise window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaners near me prices",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fireplace glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outside window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers residential",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "men in kilts gutter cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "zep glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window screen cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window steam cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window cleaners near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "removing hard water stains from glass",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "double sided window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window washing",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior window washing",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "a086dbab-6b44-418e-9f78-3ebc81a93d3a",
+        "city": "Hamilton",
+        "province": "ON",
+        "slug": "hamilton"
+      },
+      "geoId": "1002287",
+      "ideas": [
+        {
+          "text": "window cleaning",
+          "avgMonthlySearches": "140",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "2091681",
+          "highTopOfPageBidMicros": "15119410"
+        },
+        {
+          "text": "window cleaning services",
+          "avgMonthlySearches": "110",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "1927937",
+          "highTopOfPageBidMicros": "8684104"
+        },
+        {
+          "text": "window washing services",
+          "avgMonthlySearches": "110",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "1927937",
+          "highTopOfPageBidMicros": "8684104"
+        },
+        {
+          "text": "window cleaning near me",
+          "avgMonthlySearches": "90",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2762074",
+          "highTopOfPageBidMicros": "12393922"
+        },
+        {
+          "text": "window washers near me",
+          "avgMonthlySearches": "90",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2762074",
+          "highTopOfPageBidMicros": "12393922"
+        },
+        {
+          "text": "glass cleaners near me",
+          "avgMonthlySearches": "90",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "2762074",
+          "highTopOfPageBidMicros": "12393922"
+        },
+        {
+          "text": "window washing",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "1328104",
+          "highTopOfPageBidMicros": "13163656"
+        },
+        {
+          "text": "wash window cleaning",
+          "avgMonthlySearches": "50",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "1328104",
+          "highTopOfPageBidMicros": "13163656"
+        },
+        {
+          "text": "residential window cleaning",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1691471",
+          "highTopOfPageBidMicros": "15192863"
+        },
+        {
+          "text": "window cleaning services near me",
+          "avgMonthlySearches": "40",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services near me",
+          "avgMonthlySearches": "40",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers residential",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1691471",
+          "highTopOfPageBidMicros": "15192863"
+        },
+        {
+          "text": "clean residential windows",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1691471",
+          "highTopOfPageBidMicros": "15192863"
+        },
+        {
+          "text": "window cleaning company",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing companies",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best drapery cleaners near me",
+          "avgMonthlySearches": "30",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sprayway glass cleaner",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "596173",
+          "highTopOfPageBidMicros": "3035910"
+        },
+        {
+          "text": "commercial window cleaning",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "7667051",
+          "highTopOfPageBidMicros": "57704049"
+        },
+        {
+          "text": "best window cleaner",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "582309",
+          "highTopOfPageBidMicros": "3060933"
+        },
+        {
+          "text": "windex outdoor window cleaner",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "360475",
+          "highTopOfPageBidMicros": "3028174"
+        },
+        {
+          "text": "invisible glass cleaner",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "138645",
+          "highTopOfPageBidMicros": "582309"
+        },
+        {
+          "text": "high rise window cleaning",
+          "avgMonthlySearches": "20",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fireplace glass cleaner",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex glass cleaner",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "automatic window cleaner",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "159591",
+          "highTopOfPageBidMicros": "2079675"
+        },
+        {
+          "text": "commercial window washing",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "7667051",
+          "highTopOfPageBidMicros": "57704049"
+        },
+        {
+          "text": "window vacs",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window cleaning services",
+          "avgMonthlySearches": "20",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "good window cleaner",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "582309",
+          "highTopOfPageBidMicros": "3060933"
+        },
+        {
+          "text": "windex exterior window cleaner",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "360475",
+          "highTopOfPageBidMicros": "3028174"
+        },
+        {
+          "text": "best window washer",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "582309",
+          "highTopOfPageBidMicros": "3060933"
+        },
+        {
+          "text": "professional window cleaning company",
+          "avgMonthlySearches": "20",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor glass cleaner",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "360475",
+          "highTopOfPageBidMicros": "3028174"
+        },
+        {
+          "text": "window cleaning specialists",
+          "avgMonthlySearches": "20",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "pro window cleaning company",
+          "avgMonthlySearches": "20",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "shine window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "unger window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaners in my area",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "c03273be-e73f-46f6-b576-c420e2faf533",
+        "city": "Cambridge",
+        "province": "ON",
+        "slug": "cambridge"
+      },
+      "geoId": "1002200",
+      "ideas": [
+        {
+          "text": "window cleaning near me",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "7233475",
+          "highTopOfPageBidMicros": "25740766"
+        },
+        {
+          "text": "window washers near me",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "7233475",
+          "highTopOfPageBidMicros": "25740766"
+        },
+        {
+          "text": "glass cleaners near me",
+          "avgMonthlySearches": "40",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "7233475",
+          "highTopOfPageBidMicros": "25740766"
+        },
+        {
+          "text": "window cleaning",
+          "avgMonthlySearches": "30",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "1322640",
+          "highTopOfPageBidMicros": "7632767"
+        },
+        {
+          "text": "window cleaning services near me",
+          "avgMonthlySearches": "30",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services near me",
+          "avgMonthlySearches": "30",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning near me",
+          "avgMonthlySearches": "20",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning near me",
+          "avgMonthlySearches": "20",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window washers near me",
+          "avgMonthlySearches": "20",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sprayway glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6425911",
+          "highTopOfPageBidMicros": "7638927"
+        },
+        {
+          "text": "commercial window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "shine window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "unger window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "402070",
+          "highTopOfPageBidMicros": "3025752"
+        },
+        {
+          "text": "men in kilts window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "6208437",
+          "highTopOfPageBidMicros": "7603226"
+        },
+        {
+          "text": "local window cleaners",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "clearview window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3060933",
+          "highTopOfPageBidMicros": "10093917"
+        },
+        {
+          "text": "invisible glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning business",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "drapery cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "telescopic window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sunshine window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning company",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to clean windows",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "69322",
+          "highTopOfPageBidMicros": "3027514"
+        },
+        {
+          "text": "window cleaning company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "full crystal window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "high rise window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaners near me prices",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning prices",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window and gutter cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fireplace glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "cfca31b3-2182-4582-9944-289ea038cb2e",
+        "city": "Paris",
+        "province": "ON",
+        "slug": "paris"
+      },
+      "geoId": "1002378",
+      "ideas": [
+        {
+          "text": "window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3037906",
+          "highTopOfPageBidMicros": "12225190"
+        },
+        {
+          "text": "window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "3037906",
+          "highTopOfPageBidMicros": "12225190"
+        },
+        {
+          "text": "sprayway glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "commercial window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "unger window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "clearview window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "invisible glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning business",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sunshine window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to clean windows",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "high rise window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning prices",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services near me",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fireplace glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers near me prices",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing companies near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outside window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers residential",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing business",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "home window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning cost",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing companies",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "automatic window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
+    },
+    {
+      "location": {
+        "id": "23b01ec8-20d5-4a52-a80d-fa545f22df80",
+        "city": "Brantford",
+        "province": "ON",
+        "slug": "brantford"
+      },
+      "geoId": "1002192",
+      "ideas": [
+        {
+          "text": "window cleaning",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "1291738",
+          "highTopOfPageBidMicros": "8153503"
+        },
+        {
+          "text": "window cleaning near me",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers near me",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "glass cleaners near me",
+          "avgMonthlySearches": "30",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services",
+          "avgMonthlySearches": "20",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "professional window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sprayway glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "665496",
+          "highTopOfPageBidMicros": "3060933"
+        },
+        {
+          "text": "window washing",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": "831302",
+          "highTopOfPageBidMicros": "3759618"
+        },
+        {
+          "text": "commercial window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning services near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "unger window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaners in my area",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "windex outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "men in kilts window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "local window cleaners",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "outdoor window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "clearview window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "MEDIUM",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "invisible glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning business",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "telescopic window cleaner",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "exterior window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "sunshine window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning company",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window cleaning near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "best way to clean windows",
+          "avgMonthlySearches": "10",
+          "competition": "HIGH",
+          "lowTopOfPageBidMicros": "27729",
+          "highTopOfPageBidMicros": "3027514"
+        },
+        {
+          "text": "window cleaning company near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "high rise window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaners near me prices",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning prices",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window and gutter cleaning",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washing services near me",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window washers near me residential",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "fireplace glass cleaner",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "window cleaning prices near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "house window cleaning",
+          "avgMonthlySearches": "10",
+          "competition": "LOW",
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        },
+        {
+          "text": "residential window washers near me",
+          "avgMonthlySearches": "10",
+          "competition": null,
+          "lowTopOfPageBidMicros": null,
+          "highTopOfPageBidMicros": null
+        }
+      ]
     }
   ],
   "topOverall": [
@@ -308,29 +3509,43 @@
       "text": "window cleaning",
       "avgMonthlySearches": "50",
       "competition": "MEDIUM",
-      "lowTopOfPageBidMicros": "3098896",
-      "highTopOfPageBidMicros": "17677583"
+      "lowTopOfPageBidMicros": "3122430",
+      "highTopOfPageBidMicros": "17811835"
     },
     {
       "text": "window cleaning near me",
       "avgMonthlySearches": "50",
       "competition": "HIGH",
-      "lowTopOfPageBidMicros": "7170062",
-      "highTopOfPageBidMicros": "16487940"
+      "lowTopOfPageBidMicros": "7224515",
+      "highTopOfPageBidMicros": "16613157"
     },
     {
       "text": "window washers near me",
       "avgMonthlySearches": "50",
       "competition": "HIGH",
-      "lowTopOfPageBidMicros": "7170062",
-      "highTopOfPageBidMicros": "16487940"
+      "lowTopOfPageBidMicros": "7224515",
+      "highTopOfPageBidMicros": "16613157"
     },
     {
       "text": "glass cleaners near me",
       "avgMonthlySearches": "50",
       "competition": "HIGH",
-      "lowTopOfPageBidMicros": "7170062",
-      "highTopOfPageBidMicros": "16487940"
+      "lowTopOfPageBidMicros": "7224515",
+      "highTopOfPageBidMicros": "16613157"
+    },
+    {
+      "text": "wash window cleaning",
+      "avgMonthlySearches": "50",
+      "competition": "MEDIUM",
+      "lowTopOfPageBidMicros": "1328104",
+      "highTopOfPageBidMicros": "13163656"
+    },
+    {
+      "text": "clean residential windows",
+      "avgMonthlySearches": "40",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "1691471",
+      "highTopOfPageBidMicros": "15192863"
     },
     {
       "text": "window cleaning services near me",
@@ -375,6 +3590,69 @@
       "highTopOfPageBidMicros": null
     },
     {
+      "text": "window vacs",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "professional window cleaning services",
+      "avgMonthlySearches": "20",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "good window cleaner",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "582309",
+      "highTopOfPageBidMicros": "3060933"
+    },
+    {
+      "text": "windex exterior window cleaner",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "360475",
+      "highTopOfPageBidMicros": "3028174"
+    },
+    {
+      "text": "best window washer",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "582309",
+      "highTopOfPageBidMicros": "3060933"
+    },
+    {
+      "text": "professional window cleaning company",
+      "avgMonthlySearches": "20",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "windex outdoor glass cleaner",
+      "avgMonthlySearches": "20",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": "360475",
+      "highTopOfPageBidMicros": "3028174"
+    },
+    {
+      "text": "window cleaning specialists",
+      "avgMonthlySearches": "20",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "pro window cleaning company",
+      "avgMonthlySearches": "20",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
       "text": "professional window cleaning",
       "avgMonthlySearches": "10",
       "competition": "HIGH",
@@ -399,8 +3677,8 @@
       "text": "window washing",
       "avgMonthlySearches": "10",
       "competition": "HIGH",
-      "lowTopOfPageBidMicros": "6161642",
-      "highTopOfPageBidMicros": "7837175"
+      "lowTopOfPageBidMicros": "6208437",
+      "highTopOfPageBidMicros": "7896695"
     },
     {
       "text": "window cleaning services",
@@ -455,15 +3733,15 @@
       "text": "windex outdoor window cleaner",
       "avgMonthlySearches": "10",
       "competition": "HIGH",
-      "lowTopOfPageBidMicros": "567430",
-      "highTopOfPageBidMicros": "1237689"
+      "lowTopOfPageBidMicros": "571740",
+      "highTopOfPageBidMicros": "1247089"
     },
     {
       "text": "men in kilts window cleaning",
       "avgMonthlySearches": "10",
       "competition": "MEDIUM",
-      "lowTopOfPageBidMicros": "3485347",
-      "highTopOfPageBidMicros": "7533899"
+      "lowTopOfPageBidMicros": "3511816",
+      "highTopOfPageBidMicros": "7591115"
     },
     {
       "text": "local window cleaners",
@@ -483,15 +3761,15 @@
       "text": "clearview window cleaning",
       "avgMonthlySearches": "10",
       "competition": "MEDIUM",
-      "lowTopOfPageBidMicros": "2483371",
-      "highTopOfPageBidMicros": "7166406"
+      "lowTopOfPageBidMicros": "2502231",
+      "highTopOfPageBidMicros": "7220831"
     },
     {
       "text": "window cleaning business",
       "avgMonthlySearches": "10",
       "competition": "HIGH",
-      "lowTopOfPageBidMicros": "5330164",
-      "highTopOfPageBidMicros": "21421309"
+      "lowTopOfPageBidMicros": "5370644",
+      "highTopOfPageBidMicros": "21583992"
     },
     {
       "text": "drapery cleaning near me",
@@ -511,8 +3789,8 @@
       "text": "exterior window cleaning",
       "avgMonthlySearches": "10",
       "competition": "HIGH",
-      "lowTopOfPageBidMicros": "6178738",
-      "highTopOfPageBidMicros": "8859375"
+      "lowTopOfPageBidMicros": "6225662",
+      "highTopOfPageBidMicros": "8926658"
     },
     {
       "text": "window cleaning company",
@@ -525,8 +3803,8 @@
       "text": "best way to clean windows",
       "avgMonthlySearches": "10",
       "competition": "HIGH",
-      "lowTopOfPageBidMicros": "110582",
-      "highTopOfPageBidMicros": "3019530"
+      "lowTopOfPageBidMicros": "111422",
+      "highTopOfPageBidMicros": "3042461"
     },
     {
       "text": "window cleaning company near me",
@@ -581,6 +3859,69 @@
       "text": "window cleaning prices near me",
       "avgMonthlySearches": "10",
       "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "house window cleaning",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "outside window cleaning",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "window washing business",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "window washing services",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "windex glass cleaner",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "window cleaning cost",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "automatic window cleaner",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "ettore window cleaning",
+      "avgMonthlySearches": "10",
+      "competition": null,
+      "lowTopOfPageBidMicros": null,
+      "highTopOfPageBidMicros": null
+    },
+    {
+      "text": "best outdoor window cleaner",
+      "avgMonthlySearches": "10",
+      "competition": "HIGH",
       "lowTopOfPageBidMicros": null,
       "highTopOfPageBidMicros": null
     }
